@@ -8,10 +8,10 @@ from urllib.error import URLError
 from urllib.request import Request, urlopen
 
 
-def call(url, value=None):
+def call(url, value=None, timeout=15):
     request = Request(url, data=json.dumps(value).encode() if value is not None else None,
                       headers={"Content-Type": "application/json"})
-    with urlopen(request, timeout=15) as response:
+    with urlopen(request, timeout=timeout) as response:
         return json.load(response)
 
 
@@ -44,6 +44,30 @@ def main():
             loaded = call("http://127.0.0.1:8766/analyses/" + record["id"])
             if loaded != record:
                 raise RuntimeError("保存的分析与返回值不一致")
+            occupancy = call("http://127.0.0.1:8766/analyses", {
+                "request_key": "local-occupancy-bounds",
+                "release": "term-a",
+                "analysis": "occupancy_bounds",
+                "parameters": {"scenario": [
+                    {"session": "s03", "room": "r9", "capacity": 30},
+                ]},
+            }, timeout=120)
+            baseline = occupancy["result"]["baseline"]
+            scenario = occupancy["result"]["scenario"]
+            print(json.dumps({
+                "id": occupancy["id"],
+                "baseline_feasible": baseline["feasible"],
+                "scenario_feasible": scenario["feasible"],
+                "session_count": len(baseline["sessions"]),
+                "segment_count": len(baseline["segments"]),
+                "first_session": baseline["sessions"][0],
+                "first_segment": baseline["segments"][0],
+                "comparison_entries": len(occupancy["result"]["comparison"]["sessions"]),
+            }, ensure_ascii=False, indent=2))
+            occupancy_loaded = call(
+                "http://127.0.0.1:8766/analyses/" + occupancy["id"], timeout=30)
+            if occupancy_loaded != occupancy:
+                raise RuntimeError("保存的占用边界分析与返回值不一致")
             print(f"本地分析完成，用时 {time.monotonic() - started:.2f} 秒")
         finally:
             for process in processes:

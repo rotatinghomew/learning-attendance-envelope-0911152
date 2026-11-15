@@ -4,6 +4,7 @@ import math
 import numpy as np
 
 from learning.codec import numeric, require_fields, unique
+from learning.occupancy import occupancy_bounds
 
 PRODUCT = '课室使用分析'
 KEYS = {'sessions': ['session'], 'bookings': ['learner', 'session'], 'scans': ['learner', 'session']}
@@ -37,4 +38,4 @@ def overview(tables, parameters):
                         for row in sorted(tables["sessions"], key=lambda row: row["session"])], "learners": len({row["learner"] for row in tables["bookings"]})}
 
 
-ANALYSES = {"overview": overview}
+ANALYSES = {"overview": overview, "occupancy_bounds": occupancy_bounds}
