@@ -1,0 +1,6001 @@
+{
+  "term-a": {
+    "sessions": [
+      {
+        "session": "s00",
+        "room": "r0",
+        "day": 1,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s01",
+        "room": "r1",
+        "day": 1,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s02",
+        "room": "r2",
+        "day": 1,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s03",
+        "room": "r0",
+        "day": 1,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s04",
+        "room": "r1",
+        "day": 1,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s05",
+        "room": "r2",
+        "day": 1,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s06",
+        "room": "r0",
+        "day": 2,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s07",
+        "room": "r1",
+        "day": 2,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s08",
+        "room": "r2",
+        "day": 2,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s09",
+        "room": "r0",
+        "day": 2,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s10",
+        "room": "r1",
+        "day": 2,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s11",
+        "room": "r2",
+        "day": 2,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s12",
+        "room": "r0",
+        "day": 3,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s13",
+        "room": "r1",
+        "day": 3,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s14",
+        "room": "r2",
+        "day": 3,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s15",
+        "room": "r0",
+        "day": 3,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s16",
+        "room": "r1",
+        "day": 3,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s17",
+        "room": "r2",
+        "day": 3,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      }
+    ],
+    "bookings": [
+      {
+        "learner": "l000",
+        "session": "s06"
+      },
+      {
+        "learner": "l000",
+        "session": "s08"
+      },
+      {
+        "learner": "l000",
+        "session": "s02"
+      },
+      {
+        "learner": "l001",
+        "session": "s03"
+      },
+      {
+        "learner": "l001",
+        "session": "s05"
+      },
+      {
+        "learner": "l001",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s07"
+      },
+      {
+        "learner": "l002",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s10"
+      },
+      {
+        "learner": "l003",
+        "session": "s17"
+      },
+      {
+        "learner": "l003",
+        "session": "s14"
+      },
+      {
+        "learner": "l003",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s09"
+      },
+      {
+        "learner": "l004",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s15"
+      },
+      {
+        "learner": "l005",
+        "session": "s17"
+      },
+      {
+        "learner": "l005",
+        "session": "s03"
+      },
+      {
+        "learner": "l005",
+        "session": "s05"
+      },
+      {
+        "learner": "l006",
+        "session": "s08"
+      },
+      {
+        "learner": "l006",
+        "session": "s11"
+      },
+      {
+        "learner": "l006",
+        "session": "s09"
+      },
+      {
+        "learner": "l007",
+        "session": "s03"
+      },
+      {
+        "learner": "l007",
+        "session": "s04"
+      },
+      {
+        "learner": "l007",
+        "session": "s15"
+      },
+      {
+        "learner": "l008",
+        "session": "s03"
+      },
+      {
+        "learner": "l008",
+        "session": "s01"
+      },
+      {
+        "learner": "l008",
+        "session": "s08"
+      },
+      {
+        "learner": "l009",
+        "session": "s04"
+      },
+      {
+        "learner": "l009",
+        "session": "s11"
+      },
+      {
+        "learner": "l009",
+        "session": "s16"
+      },
+      {
+        "learner": "l010",
+        "session": "s15"
+      },
+      {
+        "learner": "l010",
+        "session": "s11"
+      },
+      {
+        "learner": "l010",
+        "session": "s04"
+      },
+      {
+        "learner": "l011",
+        "session": "s14"
+      },
+      {
+        "learner": "l011",
+        "session": "s08"
+      },
+      {
+        "learner": "l011",
+        "session": "s17"
+      },
+      {
+        "learner": "l012",
+        "session": "s07"
+      },
+      {
+        "learner": "l012",
+        "session": "s00"
+      },
+      {
+        "learner": "l012",
+        "session": "s10"
+      },
+      {
+        "learner": "l013",
+        "session": "s17"
+      },
+      {
+        "learner": "l013",
+        "session": "s02"
+      },
+      {
+        "learner": "l013",
+        "session": "s07"
+      },
+      {
+        "learner": "l014",
+        "session": "s17"
+      },
+      {
+        "learner": "l014",
+        "session": "s10"
+      },
+      {
+        "learner": "l014",
+        "session": "s04"
+      },
+      {
+        "learner": "l015",
+        "session": "s03"
+      },
+      {
+        "learner": "l015",
+        "session": "s05"
+      },
+      {
+        "learner": "l015",
+        "session": "s11"
+      },
+      {
+        "learner": "l016",
+        "session": "s03"
+      },
+      {
+        "learner": "l016",
+        "session": "s10"
+      },
+      {
+        "learner": "l016",
+        "session": "s16"
+      },
+      {
+        "learner": "l017",
+        "session": "s15"
+      },
+      {
+        "learner": "l017",
+        "session": "s09"
+      },
+      {
+        "learner": "l017",
+        "session": "s00"
+      },
+      {
+        "learner": "l018",
+        "session": "s13"
+      },
+      {
+        "learner": "l018",
+        "session": "s05"
+      },
+      {
+        "learner": "l018",
+        "session": "s00"
+      },
+      {
+        "learner": "l019",
+        "session": "s12"
+      },
+      {
+        "learner": "l019",
+        "session": "s03"
+      },
+      {
+        "learner": "l019",
+        "session": "s10"
+      },
+      {
+        "learner": "l020",
+        "session": "s01"
+      },
+      {
+        "learner": "l020",
+        "session": "s03"
+      },
+      {
+        "learner": "l020",
+        "session": "s06"
+      },
+      {
+        "learner": "l021",
+        "session": "s11"
+      },
+      {
+        "learner": "l021",
+        "session": "s04"
+      },
+      {
+        "learner": "l021",
+        "session": "s00"
+      },
+      {
+        "learner": "l022",
+        "session": "s04"
+      },
+      {
+        "learner": "l022",
+        "session": "s11"
+      },
+      {
+        "learner": "l022",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s11"
+      },
+      {
+        "learner": "l023",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s03"
+      },
+      {
+        "learner": "l024",
+        "session": "s06"
+      },
+      {
+        "learner": "l024",
+        "session": "s01"
+      },
+      {
+        "learner": "l024",
+        "session": "s04"
+      },
+      {
+        "learner": "l025",
+        "session": "s17"
+      },
+      {
+        "learner": "l025",
+        "session": "s02"
+      },
+      {
+        "learner": "l025",
+        "session": "s12"
+      },
+      {
+        "learner": "l026",
+        "session": "s02"
+      },
+      {
+        "learner": "l026",
+        "session": "s13"
+      },
+      {
+        "learner": "l026",
+        "session": "s17"
+      },
+      {
+        "learner": "l027",
+        "session": "s10"
+      },
+      {
+        "learner": "l027",
+        "session": "s09"
+      },
+      {
+        "learner": "l027",
+        "session": "s04"
+      },
+      {
+        "learner": "l028",
+        "session": "s11"
+      },
+      {
+        "learner": "l028",
+        "session": "s05"
+      },
+      {
+        "learner": "l028",
+        "session": "s16"
+      },
+      {
+        "learner": "l029",
+        "session": "s15"
+      },
+      {
+        "learner": "l029",
+        "session": "s14"
+      },
+      {
+        "learner": "l029",
+        "session": "s07"
+      },
+      {
+        "learner": "l030",
+        "session": "s10"
+      },
+      {
+        "learner": "l030",
+        "session": "s13"
+      },
+      {
+        "learner": "l030",
+        "session": "s05"
+      },
+      {
+        "learner": "l031",
+        "session": "s12"
+      },
+      {
+        "learner": "l031",
+        "session": "s11"
+      },
+      {
+        "learner": "l031",
+        "session": "s00"
+      },
+      {
+        "learner": "l032",
+        "session": "s08"
+      },
+      {
+        "learner": "l032",
+        "session": "s13"
+      },
+      {
+        "learner": "l032",
+        "session": "s06"
+      },
+      {
+        "learner": "l033",
+        "session": "s02"
+      },
+      {
+        "learner": "l033",
+        "session": "s00"
+      },
+      {
+        "learner": "l033",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s10"
+      },
+      {
+        "learner": "l034",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s16"
+      },
+      {
+        "learner": "l035",
+        "session": "s06"
+      },
+      {
+        "learner": "l036",
+        "session": "s05"
+      },
+      {
+        "learner": "l036",
+        "session": "s00"
+      },
+      {
+        "learner": "l036",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s08"
+      },
+      {
+        "learner": "l037",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s13"
+      },
+      {
+        "learner": "l038",
+        "session": "s09"
+      },
+      {
+        "learner": "l038",
+        "session": "s01"
+      },
+      {
+        "learner": "l038",
+        "session": "s02"
+      },
+      {
+        "learner": "l039",
+        "session": "s17"
+      },
+      {
+        "learner": "l039",
+        "session": "s01"
+      },
+      {
+        "learner": "l039",
+        "session": "s10"
+      },
+      {
+        "learner": "l040",
+        "session": "s16"
+      },
+      {
+        "learner": "l040",
+        "session": "s17"
+      },
+      {
+        "learner": "l040",
+        "session": "s13"
+      },
+      {
+        "learner": "l041",
+        "session": "s09"
+      },
+      {
+        "learner": "l041",
+        "session": "s02"
+      },
+      {
+        "learner": "l041",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s07"
+      },
+      {
+        "learner": "l042",
+        "session": "s02"
+      },
+      {
+        "learner": "l043",
+        "session": "s08"
+      },
+      {
+        "learner": "l043",
+        "session": "s01"
+      },
+      {
+        "learner": "l043",
+        "session": "s00"
+      },
+      {
+        "learner": "l044",
+        "session": "s07"
+      },
+      {
+        "learner": "l044",
+        "session": "s12"
+      },
+      {
+        "learner": "l044",
+        "session": "s16"
+      },
+      {
+        "learner": "l045",
+        "session": "s08"
+      },
+      {
+        "learner": "l045",
+        "session": "s17"
+      },
+      {
+        "learner": "l045",
+        "session": "s15"
+      },
+      {
+        "learner": "l046",
+        "session": "s10"
+      },
+      {
+        "learner": "l046",
+        "session": "s01"
+      },
+      {
+        "learner": "l046",
+        "session": "s08"
+      },
+      {
+        "learner": "l047",
+        "session": "s16"
+      },
+      {
+        "learner": "l047",
+        "session": "s17"
+      },
+      {
+        "learner": "l047",
+        "session": "s15"
+      },
+      {
+        "learner": "l048",
+        "session": "s12"
+      },
+      {
+        "learner": "l048",
+        "session": "s02"
+      },
+      {
+        "learner": "l048",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s06"
+      },
+      {
+        "learner": "l049",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s12"
+      },
+      {
+        "learner": "l050",
+        "session": "s06"
+      },
+      {
+        "learner": "l050",
+        "session": "s14"
+      },
+      {
+        "learner": "l050",
+        "session": "s13"
+      },
+      {
+        "learner": "l051",
+        "session": "s00"
+      },
+      {
+        "learner": "l051",
+        "session": "s17"
+      },
+      {
+        "learner": "l051",
+        "session": "s07"
+      },
+      {
+        "learner": "l052",
+        "session": "s14"
+      },
+      {
+        "learner": "l052",
+        "session": "s04"
+      },
+      {
+        "learner": "l052",
+        "session": "s00"
+      },
+      {
+        "learner": "l053",
+        "session": "s10"
+      },
+      {
+        "learner": "l053",
+        "session": "s03"
+      },
+      {
+        "learner": "l053",
+        "session": "s01"
+      },
+      {
+        "learner": "l054",
+        "session": "s06"
+      },
+      {
+        "learner": "l054",
+        "session": "s14"
+      },
+      {
+        "learner": "l054",
+        "session": "s01"
+      },
+      {
+        "learner": "l055",
+        "session": "s15"
+      },
+      {
+        "learner": "l055",
+        "session": "s06"
+      },
+      {
+        "learner": "l055",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s05"
+      },
+      {
+        "learner": "l056",
+        "session": "s07"
+      },
+      {
+        "learner": "l057",
+        "session": "s16"
+      },
+      {
+        "learner": "l057",
+        "session": "s09"
+      },
+      {
+        "learner": "l057",
+        "session": "s10"
+      },
+      {
+        "learner": "l058",
+        "session": "s02"
+      },
+      {
+        "learner": "l058",
+        "session": "s07"
+      },
+      {
+        "learner": "l058",
+        "session": "s12"
+      },
+      {
+        "learner": "l059",
+        "session": "s01"
+      },
+      {
+        "learner": "l059",
+        "session": "s06"
+      },
+      {
+        "learner": "l059",
+        "session": "s14"
+      },
+      {
+        "learner": "l060",
+        "session": "s03"
+      },
+      {
+        "learner": "l060",
+        "session": "s13"
+      },
+      {
+        "learner": "l060",
+        "session": "s09"
+      },
+      {
+        "learner": "l061",
+        "session": "s04"
+      },
+      {
+        "learner": "l061",
+        "session": "s15"
+      },
+      {
+        "learner": "l061",
+        "session": "s02"
+      },
+      {
+        "learner": "l062",
+        "session": "s07"
+      },
+      {
+        "learner": "l062",
+        "session": "s11"
+      },
+      {
+        "learner": "l062",
+        "session": "s16"
+      },
+      {
+        "learner": "l063",
+        "session": "s02"
+      },
+      {
+        "learner": "l063",
+        "session": "s07"
+      },
+      {
+        "learner": "l063",
+        "session": "s09"
+      },
+      {
+        "learner": "l064",
+        "session": "s13"
+      },
+      {
+        "learner": "l064",
+        "session": "s08"
+      },
+      {
+        "learner": "l064",
+        "session": "s00"
+      },
+      {
+        "learner": "l065",
+        "session": "s09"
+      },
+      {
+        "learner": "l065",
+        "session": "s08"
+      },
+      {
+        "learner": "l065",
+        "session": "s16"
+      },
+      {
+        "learner": "l066",
+        "session": "s09"
+      },
+      {
+        "learner": "l066",
+        "session": "s06"
+      },
+      {
+        "learner": "l066",
+        "session": "s07"
+      },
+      {
+        "learner": "l067",
+        "session": "s04"
+      },
+      {
+        "learner": "l067",
+        "session": "s11"
+      },
+      {
+        "learner": "l067",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s04"
+      },
+      {
+        "learner": "l068",
+        "session": "s03"
+      },
+      {
+        "learner": "l069",
+        "session": "s15"
+      },
+      {
+        "learner": "l069",
+        "session": "s14"
+      },
+      {
+        "learner": "l069",
+        "session": "s09"
+      },
+      {
+        "learner": "l070",
+        "session": "s06"
+      },
+      {
+        "learner": "l070",
+        "session": "s03"
+      },
+      {
+        "learner": "l070",
+        "session": "s04"
+      },
+      {
+        "learner": "l071",
+        "session": "s07"
+      },
+      {
+        "learner": "l071",
+        "session": "s10"
+      },
+      {
+        "learner": "l071",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s15"
+      },
+      {
+        "learner": "l072",
+        "session": "s02"
+      },
+      {
+        "learner": "l073",
+        "session": "s06"
+      },
+      {
+        "learner": "l073",
+        "session": "s05"
+      },
+      {
+        "learner": "l073",
+        "session": "s00"
+      },
+      {
+        "learner": "l074",
+        "session": "s02"
+      },
+      {
+        "learner": "l074",
+        "session": "s15"
+      },
+      {
+        "learner": "l074",
+        "session": "s01"
+      },
+      {
+        "learner": "l075",
+        "session": "s17"
+      },
+      {
+        "learner": "l075",
+        "session": "s03"
+      },
+      {
+        "learner": "l075",
+        "session": "s15"
+      },
+      {
+        "learner": "l076",
+        "session": "s04"
+      },
+      {
+        "learner": "l076",
+        "session": "s16"
+      },
+      {
+        "learner": "l076",
+        "session": "s06"
+      },
+      {
+        "learner": "l077",
+        "session": "s00"
+      },
+      {
+        "learner": "l077",
+        "session": "s05"
+      },
+      {
+        "learner": "l077",
+        "session": "s08"
+      },
+      {
+        "learner": "l078",
+        "session": "s09"
+      },
+      {
+        "learner": "l078",
+        "session": "s13"
+      },
+      {
+        "learner": "l078",
+        "session": "s05"
+      },
+      {
+        "learner": "l079",
+        "session": "s04"
+      },
+      {
+        "learner": "l079",
+        "session": "s01"
+      },
+      {
+        "learner": "l079",
+        "session": "s08"
+      },
+      {
+        "learner": "l080",
+        "session": "s04"
+      },
+      {
+        "learner": "l080",
+        "session": "s15"
+      },
+      {
+        "learner": "l080",
+        "session": "s06"
+      },
+      {
+        "learner": "l081",
+        "session": "s11"
+      },
+      {
+        "learner": "l081",
+        "session": "s03"
+      },
+      {
+        "learner": "l081",
+        "session": "s09"
+      },
+      {
+        "learner": "l082",
+        "session": "s08"
+      },
+      {
+        "learner": "l082",
+        "session": "s01"
+      },
+      {
+        "learner": "l082",
+        "session": "s11"
+      },
+      {
+        "learner": "l083",
+        "session": "s13"
+      },
+      {
+        "learner": "l083",
+        "session": "s12"
+      },
+      {
+        "learner": "l083",
+        "session": "s00"
+      },
+      {
+        "learner": "l084",
+        "session": "s05"
+      },
+      {
+        "learner": "l084",
+        "session": "s08"
+      },
+      {
+        "learner": "l084",
+        "session": "s04"
+      },
+      {
+        "learner": "l085",
+        "session": "s00"
+      },
+      {
+        "learner": "l085",
+        "session": "s11"
+      },
+      {
+        "learner": "l085",
+        "session": "s07"
+      },
+      {
+        "learner": "l086",
+        "session": "s00"
+      },
+      {
+        "learner": "l086",
+        "session": "s14"
+      },
+      {
+        "learner": "l086",
+        "session": "s05"
+      },
+      {
+        "learner": "l087",
+        "session": "s06"
+      },
+      {
+        "learner": "l087",
+        "session": "s01"
+      },
+      {
+        "learner": "l087",
+        "session": "s02"
+      },
+      {
+        "learner": "l088",
+        "session": "s12"
+      },
+      {
+        "learner": "l088",
+        "session": "s07"
+      },
+      {
+        "learner": "l088",
+        "session": "s16"
+      },
+      {
+        "learner": "l089",
+        "session": "s11"
+      },
+      {
+        "learner": "l089",
+        "session": "s01"
+      },
+      {
+        "learner": "l089",
+        "session": "s03"
+      }
+    ],
+    "scans": [
+      {
+        "learner": "l000",
+        "session": "s02",
+        "enter_lo": 596,
+        "enter_hi": 606,
+        "leave_lo": 632,
+        "leave_hi": 640
+      },
+      {
+        "learner": "l001",
+        "session": "s05",
+        "enter_lo": 664,
+        "enter_hi": 674,
+        "leave_lo": 687,
+        "leave_hi": 695
+      },
+      {
+        "learner": "l001",
+        "session": "s08",
+        "enter_lo": 597,
+        "enter_hi": 607,
+        "leave_lo": 624,
+        "leave_hi": 632
+      },
+      {
+        "learner": "l002",
+        "session": "s08",
+        "enter_lo": 596,
+        "enter_hi": 606,
+        "leave_lo": 636,
+        "leave_hi": 644
+      },
+      {
+        "learner": "l004",
+        "session": "s09",
+        "enter_lo": 625,
+        "enter_hi": 635,
+        "leave_lo": 661,
+        "leave_hi": 669
+      },
+      {
+        "learner": "l005",
+        "session": "s17",
+        "enter_lo": 671,
+        "enter_hi": 681,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l005",
+        "session": "s03",
+        "enter_lo": 612,
+        "enter_hi": 622,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l006",
+        "session": "s08",
+        "enter_lo": 588,
+        "enter_hi": 598,
+        "leave_lo": 622,
+        "leave_hi": 630
+      },
+      {
+        "learner": "l007",
+        "session": "s03",
+        "enter_lo": 613,
+        "enter_hi": 623,
+        "leave_lo": 649,
+        "leave_hi": 657
+      },
+      {
+        "learner": "l007",
+        "session": "s15",
+        "enter_lo": 623,
+        "enter_hi": 633,
+        "leave_lo": 653,
+        "leave_hi": 661
+      },
+      {
+        "learner": "l008",
+        "session": "s01",
+        "enter_lo": 564,
+        "enter_hi": 574,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l008",
+        "session": "s08",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l009",
+        "session": "s04",
+        "enter_lo": 652,
+        "enter_hi": 662,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l009",
+        "session": "s16",
+        "enter_lo": 650,
+        "enter_hi": 660,
+        "leave_lo": 684,
+        "leave_hi": 692
+      },
+      {
+        "learner": "l010",
+        "session": "s11",
+        "enter_lo": 672,
+        "enter_hi": 682,
+        "leave_lo": 712,
+        "leave_hi": 720
+      },
+      {
+        "learner": "l010",
+        "session": "s04",
+        "enter_lo": 635,
+        "enter_hi": 645,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l011",
+        "session": "s08",
+        "enter_lo": 594,
+        "enter_hi": 604,
+        "leave_lo": 634,
+        "leave_hi": 642
+      },
+      {
+        "learner": "l011",
+        "session": "s17",
+        "enter_lo": 669,
+        "enter_hi": 679,
+        "leave_lo": 692,
+        "leave_hi": 700
+      },
+      {
+        "learner": "l012",
+        "session": "s00",
+        "enter_lo": 545,
+        "enter_hi": 555,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l012",
+        "session": "s10",
+        "enter_lo": 637,
+        "enter_hi": 647,
+        "leave_lo": 656,
+        "leave_hi": 664
+      },
+      {
+        "learner": "l013",
+        "session": "s02",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 641,
+        "leave_hi": 649
+      },
+      {
+        "learner": "l014",
+        "session": "s17",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l015",
+        "session": "s03",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 638,
+        "leave_hi": 646
+      },
+      {
+        "learner": "l015",
+        "session": "s11",
+        "enter_lo": 665,
+        "enter_hi": 675,
+        "leave_lo": 698,
+        "leave_hi": 706
+      },
+      {
+        "learner": "l016",
+        "session": "s10",
+        "enter_lo": 638,
+        "enter_hi": 648,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l017",
+        "session": "s15",
+        "enter_lo": 616,
+        "enter_hi": 626,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l017",
+        "session": "s09",
+        "enter_lo": 620,
+        "enter_hi": 630,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l017",
+        "session": "s00",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 580,
+        "leave_hi": 588
+      },
+      {
+        "learner": "l018",
+        "session": "s13",
+        "enter_lo": 566,
+        "enter_hi": 576,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l018",
+        "session": "s05",
+        "enter_lo": 676,
+        "enter_hi": 686,
+        "leave_lo": 696,
+        "leave_hi": 704
+      },
+      {
+        "learner": "l019",
+        "session": "s12",
+        "enter_lo": 540,
+        "enter_hi": 550,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l019",
+        "session": "s03",
+        "enter_lo": 619,
+        "enter_hi": 629,
+        "leave_lo": 664,
+        "leave_hi": 672
+      },
+      {
+        "learner": "l020",
+        "session": "s03",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 628,
+        "leave_hi": 636
+      },
+      {
+        "learner": "l020",
+        "session": "s06",
+        "enter_lo": 546,
+        "enter_hi": 556,
+        "leave_lo": 585,
+        "leave_hi": 593
+      },
+      {
+        "learner": "l021",
+        "session": "s04",
+        "enter_lo": 645,
+        "enter_hi": 655,
+        "leave_lo": 680,
+        "leave_hi": 688
+      },
+      {
+        "learner": "l022",
+        "session": "s04",
+        "enter_lo": 646,
+        "enter_hi": 656,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l022",
+        "session": "s11",
+        "enter_lo": 673,
+        "enter_hi": 683,
+        "leave_lo": 689,
+        "leave_hi": 697
+      },
+      {
+        "learner": "l022",
+        "session": "s15",
+        "enter_lo": 625,
+        "enter_hi": 635,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l023",
+        "session": "s11",
+        "enter_lo": 662,
+        "enter_hi": 672,
+        "leave_lo": 704,
+        "leave_hi": 712
+      },
+      {
+        "learner": "l023",
+        "session": "s15",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 659,
+        "leave_hi": 667
+      },
+      {
+        "learner": "l023",
+        "session": "s03",
+        "enter_lo": 617,
+        "enter_hi": 627,
+        "leave_lo": 643,
+        "leave_hi": 651
+      },
+      {
+        "learner": "l024",
+        "session": "s06",
+        "enter_lo": 540,
+        "enter_hi": 550,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l024",
+        "session": "s01",
+        "enter_lo": 574,
+        "enter_hi": 584,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l025",
+        "session": "s17",
+        "enter_lo": 660,
+        "enter_hi": 670,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l026",
+        "session": "s13",
+        "enter_lo": 573,
+        "enter_hi": 583,
+        "leave_lo": 610,
+        "leave_hi": 618
+      },
+      {
+        "learner": "l027",
+        "session": "s09",
+        "enter_lo": 616,
+        "enter_hi": 626,
+        "leave_lo": 661,
+        "leave_hi": 669
+      },
+      {
+        "learner": "l027",
+        "session": "s04",
+        "enter_lo": 635,
+        "enter_hi": 645,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l028",
+        "session": "s11",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 691,
+        "leave_hi": 699
+      },
+      {
+        "learner": "l028",
+        "session": "s05",
+        "enter_lo": 676,
+        "enter_hi": 686,
+        "leave_lo": 713,
+        "leave_hi": 721
+      },
+      {
+        "learner": "l028",
+        "session": "s16",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 684,
+        "leave_hi": 692
+      },
+      {
+        "learner": "l029",
+        "session": "s15",
+        "enter_lo": 628,
+        "enter_hi": 638,
+        "leave_lo": 650,
+        "leave_hi": 658
+      },
+      {
+        "learner": "l029",
+        "session": "s07",
+        "enter_lo": 579,
+        "enter_hi": 589,
+        "leave_lo": 602,
+        "leave_hi": 610
+      },
+      {
+        "learner": "l030",
+        "session": "s10",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 674,
+        "leave_hi": 682
+      },
+      {
+        "learner": "l030",
+        "session": "s13",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 586,
+        "leave_hi": 594
+      },
+      {
+        "learner": "l030",
+        "session": "s05",
+        "enter_lo": 664,
+        "enter_hi": 674,
+        "leave_lo": 682,
+        "leave_hi": 690
+      },
+      {
+        "learner": "l031",
+        "session": "s00",
+        "enter_lo": 554,
+        "enter_hi": 564,
+        "leave_lo": 585,
+        "leave_hi": 593
+      },
+      {
+        "learner": "l032",
+        "session": "s13",
+        "enter_lo": 572,
+        "enter_hi": 582,
+        "leave_lo": 588,
+        "leave_hi": 596
+      },
+      {
+        "learner": "l032",
+        "session": "s06",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l033",
+        "session": "s00",
+        "enter_lo": 539,
+        "enter_hi": 549,
+        "leave_lo": 559,
+        "leave_hi": 567
+      },
+      {
+        "learner": "l034",
+        "session": "s10",
+        "enter_lo": 645,
+        "enter_hi": 655,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l035",
+        "session": "s05",
+        "enter_lo": 660,
+        "enter_hi": 670,
+        "leave_lo": 691,
+        "leave_hi": 699
+      },
+      {
+        "learner": "l036",
+        "session": "s05",
+        "enter_lo": 662,
+        "enter_hi": 672,
+        "leave_lo": 679,
+        "leave_hi": 687
+      },
+      {
+        "learner": "l036",
+        "session": "s17",
+        "enter_lo": 672,
+        "enter_hi": 682,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l037",
+        "session": "s08",
+        "enter_lo": 593,
+        "enter_hi": 603,
+        "leave_lo": 631,
+        "leave_hi": 639
+      },
+      {
+        "learner": "l037",
+        "session": "s13",
+        "enter_lo": 566,
+        "enter_hi": 576,
+        "leave_lo": 589,
+        "leave_hi": 597
+      },
+      {
+        "learner": "l038",
+        "session": "s02",
+        "enter_lo": 604,
+        "enter_hi": 614,
+        "leave_lo": 635,
+        "leave_hi": 643
+      },
+      {
+        "learner": "l039",
+        "session": "s01",
+        "enter_lo": 565,
+        "enter_hi": 575,
+        "leave_lo": 606,
+        "leave_hi": 614
+      },
+      {
+        "learner": "l040",
+        "session": "s17",
+        "enter_lo": 671,
+        "enter_hi": 681,
+        "leave_lo": 693,
+        "leave_hi": 701
+      },
+      {
+        "learner": "l041",
+        "session": "s09",
+        "enter_lo": 617,
+        "enter_hi": 627,
+        "leave_lo": 663,
+        "leave_hi": 671
+      },
+      {
+        "learner": "l041",
+        "session": "s02",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 619,
+        "leave_hi": 627
+      },
+      {
+        "learner": "l041",
+        "session": "s15",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l043",
+        "session": "s01",
+        "enter_lo": 578,
+        "enter_hi": 588,
+        "leave_lo": 600,
+        "leave_hi": 608
+      },
+      {
+        "learner": "l044",
+        "session": "s07",
+        "enter_lo": 567,
+        "enter_hi": 577,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l044",
+        "session": "s12",
+        "enter_lo": 544,
+        "enter_hi": 554,
+        "leave_lo": 567,
+        "leave_hi": 575
+      },
+      {
+        "learner": "l045",
+        "session": "s08",
+        "enter_lo": 587,
+        "enter_hi": 597,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l045",
+        "session": "s17",
+        "enter_lo": 674,
+        "enter_hi": 684,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l046",
+        "session": "s10",
+        "enter_lo": 648,
+        "enter_hi": 658,
+        "leave_lo": 674,
+        "leave_hi": 682
+      },
+      {
+        "learner": "l046",
+        "session": "s01",
+        "enter_lo": 560,
+        "enter_hi": 570,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l047",
+        "session": "s16",
+        "enter_lo": 649,
+        "enter_hi": 659,
+        "leave_lo": 685,
+        "leave_hi": 693
+      },
+      {
+        "learner": "l048",
+        "session": "s12",
+        "enter_lo": 550,
+        "enter_hi": 560,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l048",
+        "session": "s02",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 611,
+        "leave_hi": 619
+      },
+      {
+        "learner": "l048",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 643,
+        "leave_hi": 651
+      },
+      {
+        "learner": "l050",
+        "session": "s06",
+        "enter_lo": 536,
+        "enter_hi": 546,
+        "leave_lo": 563,
+        "leave_hi": 571
+      },
+      {
+        "learner": "l050",
+        "session": "s13",
+        "enter_lo": 569,
+        "enter_hi": 579,
+        "leave_lo": 600,
+        "leave_hi": 608
+      },
+      {
+        "learner": "l051",
+        "session": "s07",
+        "enter_lo": 561,
+        "enter_hi": 571,
+        "leave_lo": 591,
+        "leave_hi": 599
+      },
+      {
+        "learner": "l052",
+        "session": "s00",
+        "enter_lo": 539,
+        "enter_hi": 549,
+        "leave_lo": 578,
+        "leave_hi": 586
+      },
+      {
+        "learner": "l053",
+        "session": "s10",
+        "enter_lo": 652,
+        "enter_hi": 662,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l053",
+        "session": "s03",
+        "enter_lo": 622,
+        "enter_hi": 632,
+        "leave_lo": 640,
+        "leave_hi": 648
+      },
+      {
+        "learner": "l054",
+        "session": "s01",
+        "enter_lo": 561,
+        "enter_hi": 571,
+        "leave_lo": 597,
+        "leave_hi": 605
+      },
+      {
+        "learner": "l055",
+        "session": "s15",
+        "enter_lo": 615,
+        "enter_hi": 625,
+        "leave_lo": 639,
+        "leave_hi": 647
+      },
+      {
+        "learner": "l055",
+        "session": "s03",
+        "enter_lo": 626,
+        "enter_hi": 636,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l057",
+        "session": "s16",
+        "enter_lo": 646,
+        "enter_hi": 656,
+        "leave_lo": 675,
+        "leave_hi": 683
+      },
+      {
+        "learner": "l058",
+        "session": "s02",
+        "enter_lo": 593,
+        "enter_hi": 603,
+        "leave_lo": 622,
+        "leave_hi": 630
+      },
+      {
+        "learner": "l058",
+        "session": "s07",
+        "enter_lo": 572,
+        "enter_hi": 582,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l058",
+        "session": "s12",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 573,
+        "leave_hi": 581
+      },
+      {
+        "learner": "l059",
+        "session": "s01",
+        "enter_lo": 576,
+        "enter_hi": 586,
+        "leave_lo": 609,
+        "leave_hi": 617
+      },
+      {
+        "learner": "l059",
+        "session": "s14",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 634,
+        "leave_hi": 642
+      },
+      {
+        "learner": "l060",
+        "session": "s03",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 650,
+        "leave_hi": 658
+      },
+      {
+        "learner": "l060",
+        "session": "s13",
+        "enter_lo": 565,
+        "enter_hi": 575,
+        "leave_lo": 584,
+        "leave_hi": 592
+      },
+      {
+        "learner": "l060",
+        "session": "s09",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l061",
+        "session": "s15",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l062",
+        "session": "s07",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 599,
+        "leave_hi": 607
+      },
+      {
+        "learner": "l063",
+        "session": "s09",
+        "enter_lo": 611,
+        "enter_hi": 621,
+        "leave_lo": 640,
+        "leave_hi": 648
+      },
+      {
+        "learner": "l064",
+        "session": "s13",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 608,
+        "leave_hi": 616
+      },
+      {
+        "learner": "l064",
+        "session": "s08",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 607,
+        "leave_hi": 615
+      },
+      {
+        "learner": "l064",
+        "session": "s00",
+        "enter_lo": 543,
+        "enter_hi": 553,
+        "leave_lo": 574,
+        "leave_hi": 582
+      },
+      {
+        "learner": "l065",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 637,
+        "leave_hi": 645
+      },
+      {
+        "learner": "l066",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 638,
+        "leave_hi": 646
+      },
+      {
+        "learner": "l067",
+        "session": "s04",
+        "enter_lo": 654,
+        "enter_hi": 664,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l067",
+        "session": "s11",
+        "enter_lo": 678,
+        "enter_hi": 688,
+        "leave_lo": 708,
+        "leave_hi": 716
+      },
+      {
+        "learner": "l068",
+        "session": "s07",
+        "enter_lo": 563,
+        "enter_hi": 573,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l068",
+        "session": "s04",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l069",
+        "session": "s15",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 673,
+        "leave_hi": 681
+      },
+      {
+        "learner": "l070",
+        "session": "s06",
+        "enter_lo": 546,
+        "enter_hi": 556,
+        "leave_lo": 589,
+        "leave_hi": 597
+      },
+      {
+        "learner": "l070",
+        "session": "s03",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 646,
+        "leave_hi": 654
+      },
+      {
+        "learner": "l071",
+        "session": "s10",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l072",
+        "session": "s04",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l072",
+        "session": "s15",
+        "enter_lo": 623,
+        "enter_hi": 633,
+        "leave_lo": 642,
+        "leave_hi": 650
+      },
+      {
+        "learner": "l073",
+        "session": "s05",
+        "enter_lo": 679,
+        "enter_hi": 689,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l074",
+        "session": "s02",
+        "enter_lo": 598,
+        "enter_hi": 608,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l074",
+        "session": "s15",
+        "enter_lo": 613,
+        "enter_hi": 623,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l075",
+        "session": "s17",
+        "enter_lo": 677,
+        "enter_hi": 687,
+        "leave_lo": 715,
+        "leave_hi": 723
+      },
+      {
+        "learner": "l076",
+        "session": "s04",
+        "enter_lo": 647,
+        "enter_hi": 657,
+        "leave_lo": 688,
+        "leave_hi": 696
+      },
+      {
+        "learner": "l076",
+        "session": "s16",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 680,
+        "leave_hi": 688
+      },
+      {
+        "learner": "l077",
+        "session": "s00",
+        "enter_lo": 554,
+        "enter_hi": 564,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l077",
+        "session": "s08",
+        "enter_lo": 601,
+        "enter_hi": 611,
+        "leave_lo": 631,
+        "leave_hi": 639
+      },
+      {
+        "learner": "l078",
+        "session": "s13",
+        "enter_lo": 570,
+        "enter_hi": 580,
+        "leave_lo": 601,
+        "leave_hi": 609
+      },
+      {
+        "learner": "l078",
+        "session": "s05",
+        "enter_lo": 666,
+        "enter_hi": 676,
+        "leave_lo": 694,
+        "leave_hi": 702
+      },
+      {
+        "learner": "l079",
+        "session": "s04",
+        "enter_lo": 644,
+        "enter_hi": 654,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l080",
+        "session": "s04",
+        "enter_lo": 639,
+        "enter_hi": 649,
+        "leave_lo": 662,
+        "leave_hi": 670
+      },
+      {
+        "learner": "l081",
+        "session": "s11",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 696,
+        "leave_hi": 704
+      },
+      {
+        "learner": "l081",
+        "session": "s03",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l082",
+        "session": "s11",
+        "enter_lo": 668,
+        "enter_hi": 678,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l083",
+        "session": "s13",
+        "enter_lo": 576,
+        "enter_hi": 586,
+        "leave_lo": 617,
+        "leave_hi": 625
+      },
+      {
+        "learner": "l083",
+        "session": "s00",
+        "enter_lo": 542,
+        "enter_hi": 552,
+        "leave_lo": 563,
+        "leave_hi": 571
+      },
+      {
+        "learner": "l084",
+        "session": "s05",
+        "enter_lo": 666,
+        "enter_hi": 676,
+        "leave_lo": 697,
+        "leave_hi": 705
+      },
+      {
+        "learner": "l084",
+        "session": "s08",
+        "enter_lo": 599,
+        "enter_hi": 609,
+        "leave_lo": 617,
+        "leave_hi": 625
+      },
+      {
+        "learner": "l085",
+        "session": "s00",
+        "enter_lo": 547,
+        "enter_hi": 557,
+        "leave_lo": 572,
+        "leave_hi": 580
+      },
+      {
+        "learner": "l085",
+        "session": "s11",
+        "enter_lo": 661,
+        "enter_hi": 671,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l086",
+        "session": "s00",
+        "enter_lo": 543,
+        "enter_hi": 553,
+        "leave_lo": 577,
+        "leave_hi": 585
+      },
+      {
+        "learner": "l087",
+        "session": "s01",
+        "enter_lo": 574,
+        "enter_hi": 584,
+        "leave_lo": 614,
+        "leave_hi": 622
+      },
+      {
+        "learner": "l088",
+        "session": "s12",
+        "enter_lo": 542,
+        "enter_hi": 552,
+        "leave_lo": 586,
+        "leave_hi": 594
+      },
+      {
+        "learner": "l089",
+        "session": "s11",
+        "enter_lo": 677,
+        "enter_hi": 687,
+        "leave_lo": 704,
+        "leave_hi": 712
+      },
+      {
+        "learner": "l089",
+        "session": "s03",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 643,
+        "leave_hi": 651
+      }
+    ]
+  },
+  "term-b": {
+    "sessions": [
+      {
+        "session": "s17",
+        "room": "r2",
+        "day": 3,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s16",
+        "room": "r1",
+        "day": 3,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s15",
+        "room": "r0",
+        "day": 3,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s14",
+        "room": "r2",
+        "day": 3,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s13",
+        "room": "r1",
+        "day": 3,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s12",
+        "room": "r0",
+        "day": 3,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s11",
+        "room": "r2",
+        "day": 2,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s10",
+        "room": "r1",
+        "day": 2,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s09",
+        "room": "r0",
+        "day": 2,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s08",
+        "room": "r2",
+        "day": 2,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s07",
+        "room": "r1",
+        "day": 2,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s06",
+        "room": "r0",
+        "day": 2,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s05",
+        "room": "r2",
+        "day": 1,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s04",
+        "room": "r1",
+        "day": 1,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s03",
+        "room": "r0",
+        "day": 1,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s02",
+        "room": "r2",
+        "day": 1,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s01",
+        "room": "r1",
+        "day": 1,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s00",
+        "room": "r0",
+        "day": 1,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      }
+    ],
+    "bookings": [
+      {
+        "learner": "l000",
+        "session": "s06"
+      },
+      {
+        "learner": "l000",
+        "session": "s08"
+      },
+      {
+        "learner": "l000",
+        "session": "s02"
+      },
+      {
+        "learner": "l001",
+        "session": "s03"
+      },
+      {
+        "learner": "l001",
+        "session": "s05"
+      },
+      {
+        "learner": "l001",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s07"
+      },
+      {
+        "learner": "l002",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s10"
+      },
+      {
+        "learner": "l003",
+        "session": "s17"
+      },
+      {
+        "learner": "l003",
+        "session": "s14"
+      },
+      {
+        "learner": "l003",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s09"
+      },
+      {
+        "learner": "l004",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s15"
+      },
+      {
+        "learner": "l005",
+        "session": "s17"
+      },
+      {
+        "learner": "l005",
+        "session": "s03"
+      },
+      {
+        "learner": "l005",
+        "session": "s05"
+      },
+      {
+        "learner": "l006",
+        "session": "s08"
+      },
+      {
+        "learner": "l006",
+        "session": "s11"
+      },
+      {
+        "learner": "l006",
+        "session": "s09"
+      },
+      {
+        "learner": "l007",
+        "session": "s03"
+      },
+      {
+        "learner": "l007",
+        "session": "s04"
+      },
+      {
+        "learner": "l007",
+        "session": "s15"
+      },
+      {
+        "learner": "l008",
+        "session": "s03"
+      },
+      {
+        "learner": "l008",
+        "session": "s01"
+      },
+      {
+        "learner": "l008",
+        "session": "s08"
+      },
+      {
+        "learner": "l009",
+        "session": "s04"
+      },
+      {
+        "learner": "l009",
+        "session": "s11"
+      },
+      {
+        "learner": "l009",
+        "session": "s16"
+      },
+      {
+        "learner": "l010",
+        "session": "s15"
+      },
+      {
+        "learner": "l010",
+        "session": "s11"
+      },
+      {
+        "learner": "l010",
+        "session": "s04"
+      },
+      {
+        "learner": "l011",
+        "session": "s14"
+      },
+      {
+        "learner": "l011",
+        "session": "s08"
+      },
+      {
+        "learner": "l011",
+        "session": "s17"
+      },
+      {
+        "learner": "l012",
+        "session": "s07"
+      },
+      {
+        "learner": "l012",
+        "session": "s00"
+      },
+      {
+        "learner": "l012",
+        "session": "s10"
+      },
+      {
+        "learner": "l013",
+        "session": "s17"
+      },
+      {
+        "learner": "l013",
+        "session": "s02"
+      },
+      {
+        "learner": "l013",
+        "session": "s07"
+      },
+      {
+        "learner": "l014",
+        "session": "s17"
+      },
+      {
+        "learner": "l014",
+        "session": "s10"
+      },
+      {
+        "learner": "l014",
+        "session": "s04"
+      },
+      {
+        "learner": "l015",
+        "session": "s03"
+      },
+      {
+        "learner": "l015",
+        "session": "s05"
+      },
+      {
+        "learner": "l015",
+        "session": "s11"
+      },
+      {
+        "learner": "l016",
+        "session": "s03"
+      },
+      {
+        "learner": "l016",
+        "session": "s10"
+      },
+      {
+        "learner": "l016",
+        "session": "s16"
+      },
+      {
+        "learner": "l017",
+        "session": "s15"
+      },
+      {
+        "learner": "l017",
+        "session": "s09"
+      },
+      {
+        "learner": "l017",
+        "session": "s00"
+      },
+      {
+        "learner": "l018",
+        "session": "s13"
+      },
+      {
+        "learner": "l018",
+        "session": "s05"
+      },
+      {
+        "learner": "l018",
+        "session": "s00"
+      },
+      {
+        "learner": "l019",
+        "session": "s12"
+      },
+      {
+        "learner": "l019",
+        "session": "s03"
+      },
+      {
+        "learner": "l019",
+        "session": "s10"
+      },
+      {
+        "learner": "l020",
+        "session": "s01"
+      },
+      {
+        "learner": "l020",
+        "session": "s03"
+      },
+      {
+        "learner": "l020",
+        "session": "s06"
+      },
+      {
+        "learner": "l021",
+        "session": "s11"
+      },
+      {
+        "learner": "l021",
+        "session": "s04"
+      },
+      {
+        "learner": "l021",
+        "session": "s00"
+      },
+      {
+        "learner": "l022",
+        "session": "s04"
+      },
+      {
+        "learner": "l022",
+        "session": "s11"
+      },
+      {
+        "learner": "l022",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s11"
+      },
+      {
+        "learner": "l023",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s03"
+      },
+      {
+        "learner": "l024",
+        "session": "s06"
+      },
+      {
+        "learner": "l024",
+        "session": "s01"
+      },
+      {
+        "learner": "l024",
+        "session": "s04"
+      },
+      {
+        "learner": "l025",
+        "session": "s17"
+      },
+      {
+        "learner": "l025",
+        "session": "s02"
+      },
+      {
+        "learner": "l025",
+        "session": "s12"
+      },
+      {
+        "learner": "l026",
+        "session": "s02"
+      },
+      {
+        "learner": "l026",
+        "session": "s13"
+      },
+      {
+        "learner": "l026",
+        "session": "s17"
+      },
+      {
+        "learner": "l027",
+        "session": "s10"
+      },
+      {
+        "learner": "l027",
+        "session": "s09"
+      },
+      {
+        "learner": "l027",
+        "session": "s04"
+      },
+      {
+        "learner": "l028",
+        "session": "s11"
+      },
+      {
+        "learner": "l028",
+        "session": "s05"
+      },
+      {
+        "learner": "l028",
+        "session": "s16"
+      },
+      {
+        "learner": "l029",
+        "session": "s15"
+      },
+      {
+        "learner": "l029",
+        "session": "s14"
+      },
+      {
+        "learner": "l029",
+        "session": "s07"
+      },
+      {
+        "learner": "l030",
+        "session": "s10"
+      },
+      {
+        "learner": "l030",
+        "session": "s13"
+      },
+      {
+        "learner": "l030",
+        "session": "s05"
+      },
+      {
+        "learner": "l031",
+        "session": "s12"
+      },
+      {
+        "learner": "l031",
+        "session": "s11"
+      },
+      {
+        "learner": "l031",
+        "session": "s00"
+      },
+      {
+        "learner": "l032",
+        "session": "s08"
+      },
+      {
+        "learner": "l032",
+        "session": "s13"
+      },
+      {
+        "learner": "l032",
+        "session": "s06"
+      },
+      {
+        "learner": "l033",
+        "session": "s02"
+      },
+      {
+        "learner": "l033",
+        "session": "s00"
+      },
+      {
+        "learner": "l033",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s10"
+      },
+      {
+        "learner": "l034",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s16"
+      },
+      {
+        "learner": "l035",
+        "session": "s06"
+      },
+      {
+        "learner": "l036",
+        "session": "s05"
+      },
+      {
+        "learner": "l036",
+        "session": "s00"
+      },
+      {
+        "learner": "l036",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s08"
+      },
+      {
+        "learner": "l037",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s13"
+      },
+      {
+        "learner": "l038",
+        "session": "s09"
+      },
+      {
+        "learner": "l038",
+        "session": "s01"
+      },
+      {
+        "learner": "l038",
+        "session": "s02"
+      },
+      {
+        "learner": "l039",
+        "session": "s17"
+      },
+      {
+        "learner": "l039",
+        "session": "s01"
+      },
+      {
+        "learner": "l039",
+        "session": "s10"
+      },
+      {
+        "learner": "l040",
+        "session": "s16"
+      },
+      {
+        "learner": "l040",
+        "session": "s17"
+      },
+      {
+        "learner": "l040",
+        "session": "s13"
+      },
+      {
+        "learner": "l041",
+        "session": "s09"
+      },
+      {
+        "learner": "l041",
+        "session": "s02"
+      },
+      {
+        "learner": "l041",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s07"
+      },
+      {
+        "learner": "l042",
+        "session": "s02"
+      },
+      {
+        "learner": "l043",
+        "session": "s08"
+      },
+      {
+        "learner": "l043",
+        "session": "s01"
+      },
+      {
+        "learner": "l043",
+        "session": "s00"
+      },
+      {
+        "learner": "l044",
+        "session": "s07"
+      },
+      {
+        "learner": "l044",
+        "session": "s12"
+      },
+      {
+        "learner": "l044",
+        "session": "s16"
+      },
+      {
+        "learner": "l045",
+        "session": "s08"
+      },
+      {
+        "learner": "l045",
+        "session": "s17"
+      },
+      {
+        "learner": "l045",
+        "session": "s15"
+      },
+      {
+        "learner": "l046",
+        "session": "s10"
+      },
+      {
+        "learner": "l046",
+        "session": "s01"
+      },
+      {
+        "learner": "l046",
+        "session": "s08"
+      },
+      {
+        "learner": "l047",
+        "session": "s16"
+      },
+      {
+        "learner": "l047",
+        "session": "s17"
+      },
+      {
+        "learner": "l047",
+        "session": "s15"
+      },
+      {
+        "learner": "l048",
+        "session": "s12"
+      },
+      {
+        "learner": "l048",
+        "session": "s02"
+      },
+      {
+        "learner": "l048",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s06"
+      },
+      {
+        "learner": "l049",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s12"
+      },
+      {
+        "learner": "l050",
+        "session": "s06"
+      },
+      {
+        "learner": "l050",
+        "session": "s14"
+      },
+      {
+        "learner": "l050",
+        "session": "s13"
+      },
+      {
+        "learner": "l051",
+        "session": "s00"
+      },
+      {
+        "learner": "l051",
+        "session": "s17"
+      },
+      {
+        "learner": "l051",
+        "session": "s07"
+      },
+      {
+        "learner": "l052",
+        "session": "s14"
+      },
+      {
+        "learner": "l052",
+        "session": "s04"
+      },
+      {
+        "learner": "l052",
+        "session": "s00"
+      },
+      {
+        "learner": "l053",
+        "session": "s10"
+      },
+      {
+        "learner": "l053",
+        "session": "s03"
+      },
+      {
+        "learner": "l053",
+        "session": "s01"
+      },
+      {
+        "learner": "l054",
+        "session": "s06"
+      },
+      {
+        "learner": "l054",
+        "session": "s14"
+      },
+      {
+        "learner": "l054",
+        "session": "s01"
+      },
+      {
+        "learner": "l055",
+        "session": "s15"
+      },
+      {
+        "learner": "l055",
+        "session": "s06"
+      },
+      {
+        "learner": "l055",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s05"
+      },
+      {
+        "learner": "l056",
+        "session": "s07"
+      },
+      {
+        "learner": "l057",
+        "session": "s16"
+      },
+      {
+        "learner": "l057",
+        "session": "s09"
+      },
+      {
+        "learner": "l057",
+        "session": "s10"
+      },
+      {
+        "learner": "l058",
+        "session": "s02"
+      },
+      {
+        "learner": "l058",
+        "session": "s07"
+      },
+      {
+        "learner": "l058",
+        "session": "s12"
+      },
+      {
+        "learner": "l059",
+        "session": "s01"
+      },
+      {
+        "learner": "l059",
+        "session": "s06"
+      },
+      {
+        "learner": "l059",
+        "session": "s14"
+      },
+      {
+        "learner": "l060",
+        "session": "s03"
+      },
+      {
+        "learner": "l060",
+        "session": "s13"
+      },
+      {
+        "learner": "l060",
+        "session": "s09"
+      },
+      {
+        "learner": "l061",
+        "session": "s04"
+      },
+      {
+        "learner": "l061",
+        "session": "s15"
+      },
+      {
+        "learner": "l061",
+        "session": "s02"
+      },
+      {
+        "learner": "l062",
+        "session": "s07"
+      },
+      {
+        "learner": "l062",
+        "session": "s11"
+      },
+      {
+        "learner": "l062",
+        "session": "s16"
+      },
+      {
+        "learner": "l063",
+        "session": "s02"
+      },
+      {
+        "learner": "l063",
+        "session": "s07"
+      },
+      {
+        "learner": "l063",
+        "session": "s09"
+      },
+      {
+        "learner": "l064",
+        "session": "s13"
+      },
+      {
+        "learner": "l064",
+        "session": "s08"
+      },
+      {
+        "learner": "l064",
+        "session": "s00"
+      },
+      {
+        "learner": "l065",
+        "session": "s09"
+      },
+      {
+        "learner": "l065",
+        "session": "s08"
+      },
+      {
+        "learner": "l065",
+        "session": "s16"
+      },
+      {
+        "learner": "l066",
+        "session": "s09"
+      },
+      {
+        "learner": "l066",
+        "session": "s06"
+      },
+      {
+        "learner": "l066",
+        "session": "s07"
+      },
+      {
+        "learner": "l067",
+        "session": "s04"
+      },
+      {
+        "learner": "l067",
+        "session": "s11"
+      },
+      {
+        "learner": "l067",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s04"
+      },
+      {
+        "learner": "l068",
+        "session": "s03"
+      },
+      {
+        "learner": "l069",
+        "session": "s15"
+      },
+      {
+        "learner": "l069",
+        "session": "s14"
+      },
+      {
+        "learner": "l069",
+        "session": "s09"
+      },
+      {
+        "learner": "l070",
+        "session": "s06"
+      },
+      {
+        "learner": "l070",
+        "session": "s03"
+      },
+      {
+        "learner": "l070",
+        "session": "s04"
+      },
+      {
+        "learner": "l071",
+        "session": "s07"
+      },
+      {
+        "learner": "l071",
+        "session": "s10"
+      },
+      {
+        "learner": "l071",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s15"
+      },
+      {
+        "learner": "l072",
+        "session": "s02"
+      },
+      {
+        "learner": "l073",
+        "session": "s06"
+      },
+      {
+        "learner": "l073",
+        "session": "s05"
+      },
+      {
+        "learner": "l073",
+        "session": "s00"
+      },
+      {
+        "learner": "l074",
+        "session": "s02"
+      },
+      {
+        "learner": "l074",
+        "session": "s15"
+      },
+      {
+        "learner": "l074",
+        "session": "s01"
+      },
+      {
+        "learner": "l075",
+        "session": "s17"
+      },
+      {
+        "learner": "l075",
+        "session": "s03"
+      },
+      {
+        "learner": "l075",
+        "session": "s15"
+      },
+      {
+        "learner": "l076",
+        "session": "s04"
+      },
+      {
+        "learner": "l076",
+        "session": "s16"
+      },
+      {
+        "learner": "l076",
+        "session": "s06"
+      },
+      {
+        "learner": "l077",
+        "session": "s00"
+      },
+      {
+        "learner": "l077",
+        "session": "s05"
+      },
+      {
+        "learner": "l077",
+        "session": "s08"
+      },
+      {
+        "learner": "l078",
+        "session": "s09"
+      },
+      {
+        "learner": "l078",
+        "session": "s13"
+      },
+      {
+        "learner": "l078",
+        "session": "s05"
+      },
+      {
+        "learner": "l079",
+        "session": "s04"
+      },
+      {
+        "learner": "l079",
+        "session": "s01"
+      },
+      {
+        "learner": "l079",
+        "session": "s08"
+      },
+      {
+        "learner": "l080",
+        "session": "s04"
+      },
+      {
+        "learner": "l080",
+        "session": "s15"
+      },
+      {
+        "learner": "l080",
+        "session": "s06"
+      },
+      {
+        "learner": "l081",
+        "session": "s11"
+      },
+      {
+        "learner": "l081",
+        "session": "s03"
+      },
+      {
+        "learner": "l081",
+        "session": "s09"
+      },
+      {
+        "learner": "l082",
+        "session": "s08"
+      },
+      {
+        "learner": "l082",
+        "session": "s01"
+      },
+      {
+        "learner": "l082",
+        "session": "s11"
+      },
+      {
+        "learner": "l083",
+        "session": "s13"
+      },
+      {
+        "learner": "l083",
+        "session": "s12"
+      },
+      {
+        "learner": "l083",
+        "session": "s00"
+      },
+      {
+        "learner": "l084",
+        "session": "s05"
+      },
+      {
+        "learner": "l084",
+        "session": "s08"
+      },
+      {
+        "learner": "l084",
+        "session": "s04"
+      },
+      {
+        "learner": "l085",
+        "session": "s00"
+      },
+      {
+        "learner": "l085",
+        "session": "s11"
+      },
+      {
+        "learner": "l085",
+        "session": "s07"
+      },
+      {
+        "learner": "l086",
+        "session": "s00"
+      },
+      {
+        "learner": "l086",
+        "session": "s14"
+      },
+      {
+        "learner": "l086",
+        "session": "s05"
+      },
+      {
+        "learner": "l087",
+        "session": "s06"
+      },
+      {
+        "learner": "l087",
+        "session": "s01"
+      },
+      {
+        "learner": "l087",
+        "session": "s02"
+      },
+      {
+        "learner": "l088",
+        "session": "s12"
+      },
+      {
+        "learner": "l088",
+        "session": "s07"
+      },
+      {
+        "learner": "l088",
+        "session": "s16"
+      },
+      {
+        "learner": "l089",
+        "session": "s11"
+      },
+      {
+        "learner": "l089",
+        "session": "s01"
+      },
+      {
+        "learner": "l089",
+        "session": "s03"
+      }
+    ],
+    "scans": [
+      {
+        "learner": "l000",
+        "session": "s02",
+        "enter_lo": 596,
+        "enter_hi": 606,
+        "leave_lo": 632,
+        "leave_hi": 640
+      },
+      {
+        "learner": "l001",
+        "session": "s05",
+        "enter_lo": 664,
+        "enter_hi": 674,
+        "leave_lo": 687,
+        "leave_hi": 695
+      },
+      {
+        "learner": "l001",
+        "session": "s08",
+        "enter_lo": 597,
+        "enter_hi": 607,
+        "leave_lo": 624,
+        "leave_hi": 632
+      },
+      {
+        "learner": "l002",
+        "session": "s08",
+        "enter_lo": 596,
+        "enter_hi": 606,
+        "leave_lo": 636,
+        "leave_hi": 644
+      },
+      {
+        "learner": "l004",
+        "session": "s09",
+        "enter_lo": 625,
+        "enter_hi": 635,
+        "leave_lo": 661,
+        "leave_hi": 669
+      },
+      {
+        "learner": "l005",
+        "session": "s17",
+        "enter_lo": 671,
+        "enter_hi": 681,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l005",
+        "session": "s03",
+        "enter_lo": 612,
+        "enter_hi": 622,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l006",
+        "session": "s08",
+        "enter_lo": 588,
+        "enter_hi": 598,
+        "leave_lo": 622,
+        "leave_hi": 630
+      },
+      {
+        "learner": "l007",
+        "session": "s03",
+        "enter_lo": 613,
+        "enter_hi": 623,
+        "leave_lo": 649,
+        "leave_hi": 657
+      },
+      {
+        "learner": "l007",
+        "session": "s15",
+        "enter_lo": 623,
+        "enter_hi": 633,
+        "leave_lo": 653,
+        "leave_hi": 661
+      },
+      {
+        "learner": "l008",
+        "session": "s01",
+        "enter_lo": 564,
+        "enter_hi": 574,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l008",
+        "session": "s08",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l009",
+        "session": "s04",
+        "enter_lo": 652,
+        "enter_hi": 662,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l009",
+        "session": "s16",
+        "enter_lo": 650,
+        "enter_hi": 660,
+        "leave_lo": 684,
+        "leave_hi": 692
+      },
+      {
+        "learner": "l010",
+        "session": "s11",
+        "enter_lo": 672,
+        "enter_hi": 682,
+        "leave_lo": 712,
+        "leave_hi": 720
+      },
+      {
+        "learner": "l010",
+        "session": "s04",
+        "enter_lo": 635,
+        "enter_hi": 645,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l011",
+        "session": "s08",
+        "enter_lo": 594,
+        "enter_hi": 604,
+        "leave_lo": 634,
+        "leave_hi": 642
+      },
+      {
+        "learner": "l011",
+        "session": "s17",
+        "enter_lo": 669,
+        "enter_hi": 679,
+        "leave_lo": 692,
+        "leave_hi": 700
+      },
+      {
+        "learner": "l012",
+        "session": "s00",
+        "enter_lo": 545,
+        "enter_hi": 555,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l012",
+        "session": "s10",
+        "enter_lo": 637,
+        "enter_hi": 647,
+        "leave_lo": 656,
+        "leave_hi": 664
+      },
+      {
+        "learner": "l013",
+        "session": "s02",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 641,
+        "leave_hi": 649
+      },
+      {
+        "learner": "l014",
+        "session": "s17",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l015",
+        "session": "s03",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 638,
+        "leave_hi": 646
+      },
+      {
+        "learner": "l015",
+        "session": "s11",
+        "enter_lo": 665,
+        "enter_hi": 675,
+        "leave_lo": 698,
+        "leave_hi": 706
+      },
+      {
+        "learner": "l016",
+        "session": "s10",
+        "enter_lo": 638,
+        "enter_hi": 648,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l017",
+        "session": "s15",
+        "enter_lo": 616,
+        "enter_hi": 626,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l017",
+        "session": "s09",
+        "enter_lo": 620,
+        "enter_hi": 630,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l017",
+        "session": "s00",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 580,
+        "leave_hi": 588
+      },
+      {
+        "learner": "l018",
+        "session": "s13",
+        "enter_lo": 566,
+        "enter_hi": 576,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l018",
+        "session": "s05",
+        "enter_lo": 676,
+        "enter_hi": 686,
+        "leave_lo": 696,
+        "leave_hi": 704
+      },
+      {
+        "learner": "l019",
+        "session": "s12",
+        "enter_lo": 540,
+        "enter_hi": 550,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l019",
+        "session": "s03",
+        "enter_lo": 619,
+        "enter_hi": 629,
+        "leave_lo": 664,
+        "leave_hi": 672
+      },
+      {
+        "learner": "l020",
+        "session": "s03",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 628,
+        "leave_hi": 636
+      },
+      {
+        "learner": "l020",
+        "session": "s06",
+        "enter_lo": 546,
+        "enter_hi": 556,
+        "leave_lo": 585,
+        "leave_hi": 593
+      },
+      {
+        "learner": "l021",
+        "session": "s04",
+        "enter_lo": 645,
+        "enter_hi": 655,
+        "leave_lo": 680,
+        "leave_hi": 688
+      },
+      {
+        "learner": "l022",
+        "session": "s04",
+        "enter_lo": 646,
+        "enter_hi": 656,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l022",
+        "session": "s11",
+        "enter_lo": 673,
+        "enter_hi": 683,
+        "leave_lo": 689,
+        "leave_hi": 697
+      },
+      {
+        "learner": "l022",
+        "session": "s15",
+        "enter_lo": 625,
+        "enter_hi": 635,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l023",
+        "session": "s11",
+        "enter_lo": 662,
+        "enter_hi": 672,
+        "leave_lo": 704,
+        "leave_hi": 712
+      },
+      {
+        "learner": "l023",
+        "session": "s15",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 659,
+        "leave_hi": 667
+      },
+      {
+        "learner": "l023",
+        "session": "s03",
+        "enter_lo": 617,
+        "enter_hi": 627,
+        "leave_lo": 643,
+        "leave_hi": 651
+      },
+      {
+        "learner": "l024",
+        "session": "s06",
+        "enter_lo": 540,
+        "enter_hi": 550,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l024",
+        "session": "s01",
+        "enter_lo": 574,
+        "enter_hi": 584,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l025",
+        "session": "s17",
+        "enter_lo": 660,
+        "enter_hi": 670,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l026",
+        "session": "s13",
+        "enter_lo": 573,
+        "enter_hi": 583,
+        "leave_lo": 610,
+        "leave_hi": 618
+      },
+      {
+        "learner": "l027",
+        "session": "s09",
+        "enter_lo": 616,
+        "enter_hi": 626,
+        "leave_lo": 661,
+        "leave_hi": 669
+      },
+      {
+        "learner": "l027",
+        "session": "s04",
+        "enter_lo": 635,
+        "enter_hi": 645,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l028",
+        "session": "s11",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 691,
+        "leave_hi": 699
+      },
+      {
+        "learner": "l028",
+        "session": "s05",
+        "enter_lo": 676,
+        "enter_hi": 686,
+        "leave_lo": 713,
+        "leave_hi": 721
+      },
+      {
+        "learner": "l028",
+        "session": "s16",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 684,
+        "leave_hi": 692
+      },
+      {
+        "learner": "l029",
+        "session": "s15",
+        "enter_lo": 628,
+        "enter_hi": 638,
+        "leave_lo": 650,
+        "leave_hi": 658
+      },
+      {
+        "learner": "l029",
+        "session": "s07",
+        "enter_lo": 579,
+        "enter_hi": 589,
+        "leave_lo": 602,
+        "leave_hi": 610
+      },
+      {
+        "learner": "l030",
+        "session": "s10",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 674,
+        "leave_hi": 682
+      },
+      {
+        "learner": "l030",
+        "session": "s13",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 586,
+        "leave_hi": 594
+      },
+      {
+        "learner": "l030",
+        "session": "s05",
+        "enter_lo": 664,
+        "enter_hi": 674,
+        "leave_lo": 682,
+        "leave_hi": 690
+      },
+      {
+        "learner": "l031",
+        "session": "s00",
+        "enter_lo": 554,
+        "enter_hi": 564,
+        "leave_lo": 585,
+        "leave_hi": 593
+      },
+      {
+        "learner": "l032",
+        "session": "s13",
+        "enter_lo": 572,
+        "enter_hi": 582,
+        "leave_lo": 588,
+        "leave_hi": 596
+      },
+      {
+        "learner": "l032",
+        "session": "s06",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 575,
+        "leave_hi": 583
+      },
+      {
+        "learner": "l033",
+        "session": "s00",
+        "enter_lo": 539,
+        "enter_hi": 549,
+        "leave_lo": 559,
+        "leave_hi": 567
+      },
+      {
+        "learner": "l034",
+        "session": "s10",
+        "enter_lo": 645,
+        "enter_hi": 655,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l035",
+        "session": "s05",
+        "enter_lo": 660,
+        "enter_hi": 670,
+        "leave_lo": 691,
+        "leave_hi": 699
+      },
+      {
+        "learner": "l036",
+        "session": "s05",
+        "enter_lo": 662,
+        "enter_hi": 672,
+        "leave_lo": 679,
+        "leave_hi": 687
+      },
+      {
+        "learner": "l036",
+        "session": "s17",
+        "enter_lo": 672,
+        "enter_hi": 682,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l037",
+        "session": "s08",
+        "enter_lo": 593,
+        "enter_hi": 603,
+        "leave_lo": 631,
+        "leave_hi": 639
+      },
+      {
+        "learner": "l037",
+        "session": "s13",
+        "enter_lo": 566,
+        "enter_hi": 576,
+        "leave_lo": 589,
+        "leave_hi": 597
+      },
+      {
+        "learner": "l038",
+        "session": "s02",
+        "enter_lo": 604,
+        "enter_hi": 614,
+        "leave_lo": 635,
+        "leave_hi": 643
+      },
+      {
+        "learner": "l039",
+        "session": "s01",
+        "enter_lo": 565,
+        "enter_hi": 575,
+        "leave_lo": 606,
+        "leave_hi": 614
+      },
+      {
+        "learner": "l040",
+        "session": "s17",
+        "enter_lo": 671,
+        "enter_hi": 681,
+        "leave_lo": 693,
+        "leave_hi": 701
+      },
+      {
+        "learner": "l041",
+        "session": "s09",
+        "enter_lo": 617,
+        "enter_hi": 627,
+        "leave_lo": 663,
+        "leave_hi": 671
+      },
+      {
+        "learner": "l041",
+        "session": "s02",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 619,
+        "leave_hi": 627
+      },
+      {
+        "learner": "l041",
+        "session": "s15",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l043",
+        "session": "s01",
+        "enter_lo": 578,
+        "enter_hi": 588,
+        "leave_lo": 600,
+        "leave_hi": 608
+      },
+      {
+        "learner": "l044",
+        "session": "s07",
+        "enter_lo": 567,
+        "enter_hi": 577,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l044",
+        "session": "s12",
+        "enter_lo": 544,
+        "enter_hi": 554,
+        "leave_lo": 567,
+        "leave_hi": 575
+      },
+      {
+        "learner": "l045",
+        "session": "s08",
+        "enter_lo": 587,
+        "enter_hi": 597,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l045",
+        "session": "s17",
+        "enter_lo": 674,
+        "enter_hi": 684,
+        "leave_lo": 695,
+        "leave_hi": 703
+      },
+      {
+        "learner": "l046",
+        "session": "s10",
+        "enter_lo": 648,
+        "enter_hi": 658,
+        "leave_lo": 674,
+        "leave_hi": 682
+      },
+      {
+        "learner": "l046",
+        "session": "s01",
+        "enter_lo": 560,
+        "enter_hi": 570,
+        "leave_lo": 581,
+        "leave_hi": 589
+      },
+      {
+        "learner": "l047",
+        "session": "s16",
+        "enter_lo": 649,
+        "enter_hi": 659,
+        "leave_lo": 685,
+        "leave_hi": 693
+      },
+      {
+        "learner": "l048",
+        "session": "s12",
+        "enter_lo": 550,
+        "enter_hi": 560,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l048",
+        "session": "s02",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 611,
+        "leave_hi": 619
+      },
+      {
+        "learner": "l048",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 643,
+        "leave_hi": 651
+      },
+      {
+        "learner": "l050",
+        "session": "s06",
+        "enter_lo": 536,
+        "enter_hi": 546,
+        "leave_lo": 563,
+        "leave_hi": 571
+      },
+      {
+        "learner": "l050",
+        "session": "s13",
+        "enter_lo": 569,
+        "enter_hi": 579,
+        "leave_lo": 600,
+        "leave_hi": 608
+      },
+      {
+        "learner": "l051",
+        "session": "s07",
+        "enter_lo": 561,
+        "enter_hi": 571,
+        "leave_lo": 591,
+        "leave_hi": 599
+      },
+      {
+        "learner": "l052",
+        "session": "s00",
+        "enter_lo": 539,
+        "enter_hi": 549,
+        "leave_lo": 578,
+        "leave_hi": 586
+      },
+      {
+        "learner": "l053",
+        "session": "s10",
+        "enter_lo": 652,
+        "enter_hi": 662,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l053",
+        "session": "s03",
+        "enter_lo": 622,
+        "enter_hi": 632,
+        "leave_lo": 640,
+        "leave_hi": 648
+      },
+      {
+        "learner": "l054",
+        "session": "s01",
+        "enter_lo": 561,
+        "enter_hi": 571,
+        "leave_lo": 597,
+        "leave_hi": 605
+      },
+      {
+        "learner": "l055",
+        "session": "s15",
+        "enter_lo": 615,
+        "enter_hi": 625,
+        "leave_lo": 639,
+        "leave_hi": 647
+      },
+      {
+        "learner": "l055",
+        "session": "s03",
+        "enter_lo": 626,
+        "enter_hi": 636,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l057",
+        "session": "s16",
+        "enter_lo": 646,
+        "enter_hi": 656,
+        "leave_lo": 675,
+        "leave_hi": 683
+      },
+      {
+        "learner": "l058",
+        "session": "s02",
+        "enter_lo": 593,
+        "enter_hi": 603,
+        "leave_lo": 622,
+        "leave_hi": 630
+      },
+      {
+        "learner": "l058",
+        "session": "s07",
+        "enter_lo": 572,
+        "enter_hi": 582,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l058",
+        "session": "s12",
+        "enter_lo": 549,
+        "enter_hi": 559,
+        "leave_lo": 573,
+        "leave_hi": 581
+      },
+      {
+        "learner": "l059",
+        "session": "s01",
+        "enter_lo": 576,
+        "enter_hi": 586,
+        "leave_lo": 609,
+        "leave_hi": 617
+      },
+      {
+        "learner": "l059",
+        "session": "s14",
+        "enter_lo": 595,
+        "enter_hi": 605,
+        "leave_lo": 634,
+        "leave_hi": 642
+      },
+      {
+        "learner": "l060",
+        "session": "s03",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 650,
+        "leave_hi": 658
+      },
+      {
+        "learner": "l060",
+        "session": "s13",
+        "enter_lo": 565,
+        "enter_hi": 575,
+        "leave_lo": 584,
+        "leave_hi": 592
+      },
+      {
+        "learner": "l060",
+        "session": "s09",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 657,
+        "leave_hi": 665
+      },
+      {
+        "learner": "l061",
+        "session": "s15",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l062",
+        "session": "s07",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 599,
+        "leave_hi": 607
+      },
+      {
+        "learner": "l063",
+        "session": "s09",
+        "enter_lo": 611,
+        "enter_hi": 621,
+        "leave_lo": 640,
+        "leave_hi": 648
+      },
+      {
+        "learner": "l064",
+        "session": "s13",
+        "enter_lo": 568,
+        "enter_hi": 578,
+        "leave_lo": 608,
+        "leave_hi": 616
+      },
+      {
+        "learner": "l064",
+        "session": "s08",
+        "enter_lo": 590,
+        "enter_hi": 600,
+        "leave_lo": 607,
+        "leave_hi": 615
+      },
+      {
+        "learner": "l064",
+        "session": "s00",
+        "enter_lo": 543,
+        "enter_hi": 553,
+        "leave_lo": 574,
+        "leave_hi": 582
+      },
+      {
+        "learner": "l065",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 637,
+        "leave_hi": 645
+      },
+      {
+        "learner": "l066",
+        "session": "s09",
+        "enter_lo": 610,
+        "enter_hi": 620,
+        "leave_lo": 638,
+        "leave_hi": 646
+      },
+      {
+        "learner": "l067",
+        "session": "s04",
+        "enter_lo": 654,
+        "enter_hi": 664,
+        "leave_lo": 677,
+        "leave_hi": 685
+      },
+      {
+        "learner": "l067",
+        "session": "s11",
+        "enter_lo": 678,
+        "enter_hi": 688,
+        "leave_lo": 708,
+        "leave_hi": 716
+      },
+      {
+        "learner": "l068",
+        "session": "s07",
+        "enter_lo": 563,
+        "enter_hi": 573,
+        "leave_lo": 583,
+        "leave_hi": 591
+      },
+      {
+        "learner": "l068",
+        "session": "s04",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l069",
+        "session": "s15",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 673,
+        "leave_hi": 681
+      },
+      {
+        "learner": "l070",
+        "session": "s06",
+        "enter_lo": 546,
+        "enter_hi": 556,
+        "leave_lo": 589,
+        "leave_hi": 597
+      },
+      {
+        "learner": "l070",
+        "session": "s03",
+        "enter_lo": 618,
+        "enter_hi": 628,
+        "leave_lo": 646,
+        "leave_hi": 654
+      },
+      {
+        "learner": "l071",
+        "session": "s10",
+        "enter_lo": 636,
+        "enter_hi": 646,
+        "leave_lo": 652,
+        "leave_hi": 660
+      },
+      {
+        "learner": "l072",
+        "session": "s04",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l072",
+        "session": "s15",
+        "enter_lo": 623,
+        "enter_hi": 633,
+        "leave_lo": 642,
+        "leave_hi": 650
+      },
+      {
+        "learner": "l073",
+        "session": "s05",
+        "enter_lo": 679,
+        "enter_hi": 689,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l074",
+        "session": "s02",
+        "enter_lo": 598,
+        "enter_hi": 608,
+        "leave_lo": 620,
+        "leave_hi": 628
+      },
+      {
+        "learner": "l074",
+        "session": "s15",
+        "enter_lo": 613,
+        "enter_hi": 623,
+        "leave_lo": 658,
+        "leave_hi": 666
+      },
+      {
+        "learner": "l075",
+        "session": "s17",
+        "enter_lo": 677,
+        "enter_hi": 687,
+        "leave_lo": 715,
+        "leave_hi": 723
+      },
+      {
+        "learner": "l076",
+        "session": "s04",
+        "enter_lo": 647,
+        "enter_hi": 657,
+        "leave_lo": 688,
+        "leave_hi": 696
+      },
+      {
+        "learner": "l076",
+        "session": "s16",
+        "enter_lo": 641,
+        "enter_hi": 651,
+        "leave_lo": 680,
+        "leave_hi": 688
+      },
+      {
+        "learner": "l077",
+        "session": "s00",
+        "enter_lo": 554,
+        "enter_hi": 564,
+        "leave_lo": 593,
+        "leave_hi": 601
+      },
+      {
+        "learner": "l077",
+        "session": "s08",
+        "enter_lo": 601,
+        "enter_hi": 611,
+        "leave_lo": 631,
+        "leave_hi": 639
+      },
+      {
+        "learner": "l078",
+        "session": "s13",
+        "enter_lo": 570,
+        "enter_hi": 580,
+        "leave_lo": 601,
+        "leave_hi": 609
+      },
+      {
+        "learner": "l078",
+        "session": "s05",
+        "enter_lo": 666,
+        "enter_hi": 676,
+        "leave_lo": 694,
+        "leave_hi": 702
+      },
+      {
+        "learner": "l079",
+        "session": "s04",
+        "enter_lo": 644,
+        "enter_hi": 654,
+        "leave_lo": 683,
+        "leave_hi": 691
+      },
+      {
+        "learner": "l080",
+        "session": "s04",
+        "enter_lo": 639,
+        "enter_hi": 649,
+        "leave_lo": 662,
+        "leave_hi": 670
+      },
+      {
+        "learner": "l081",
+        "session": "s11",
+        "enter_lo": 675,
+        "enter_hi": 685,
+        "leave_lo": 696,
+        "leave_hi": 704
+      },
+      {
+        "learner": "l081",
+        "session": "s03",
+        "enter_lo": 627,
+        "enter_hi": 637,
+        "leave_lo": 666,
+        "leave_hi": 674
+      },
+      {
+        "learner": "l082",
+        "session": "s11",
+        "enter_lo": 668,
+        "enter_hi": 678,
+        "leave_lo": 690,
+        "leave_hi": 698
+      },
+      {
+        "learner": "l083",
+        "session": "s13",
+        "enter_lo": 576,
+        "enter_hi": 586,
+        "leave_lo": 617,
+        "leave_hi": 625
+      },
+      {
+        "learner": "l083",
+        "session": "s00",
+        "enter_lo": 542,
+        "enter_hi": 552,
+        "leave_lo": 563,
+        "leave_hi": 571
+      },
+      {
+        "learner": "l084",
+        "session": "s05",
+        "enter_lo": 666,
+        "enter_hi": 676,
+        "leave_lo": 697,
+        "leave_hi": 705
+      },
+      {
+        "learner": "l084",
+        "session": "s08",
+        "enter_lo": 599,
+        "enter_hi": 609,
+        "leave_lo": 617,
+        "leave_hi": 625
+      },
+      {
+        "learner": "l085",
+        "session": "s00",
+        "enter_lo": 547,
+        "enter_hi": 557,
+        "leave_lo": 572,
+        "leave_hi": 580
+      },
+      {
+        "learner": "l085",
+        "session": "s11",
+        "enter_lo": 661,
+        "enter_hi": 671,
+        "leave_lo": 699,
+        "leave_hi": 707
+      },
+      {
+        "learner": "l086",
+        "session": "s00",
+        "enter_lo": 543,
+        "enter_hi": 553,
+        "leave_lo": 577,
+        "leave_hi": 585
+      },
+      {
+        "learner": "l087",
+        "session": "s01",
+        "enter_lo": 574,
+        "enter_hi": 584,
+        "leave_lo": 614,
+        "leave_hi": 622
+      },
+      {
+        "learner": "l088",
+        "session": "s12",
+        "enter_lo": 542,
+        "enter_hi": 552,
+        "leave_lo": 586,
+        "leave_hi": 594
+      },
+      {
+        "learner": "l089",
+        "session": "s11",
+        "enter_lo": 677,
+        "enter_hi": 687,
+        "leave_lo": 704,
+        "leave_hi": 712
+      },
+      {
+        "learner": "l089",
+        "session": "s03",
+        "enter_lo": 621,
+        "enter_hi": 631,
+        "leave_lo": 643,
+        "leave_hi": 651
+      }
+    ]
+  },
+  "limited": {
+    "sessions": [
+      {
+        "session": "s00",
+        "room": "r0",
+        "day": 1,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s01",
+        "room": "r1",
+        "day": 1,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s02",
+        "room": "r2",
+        "day": 1,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s03",
+        "room": "r0",
+        "day": 1,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s04",
+        "room": "r1",
+        "day": 1,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s05",
+        "room": "r2",
+        "day": 1,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s06",
+        "room": "r0",
+        "day": 2,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s07",
+        "room": "r1",
+        "day": 2,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s08",
+        "room": "r2",
+        "day": 2,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s09",
+        "room": "r0",
+        "day": 2,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s10",
+        "room": "r1",
+        "day": 2,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s11",
+        "room": "r2",
+        "day": 2,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      },
+      {
+        "session": "s12",
+        "room": "r0",
+        "day": 3,
+        "start": 540,
+        "end": 610,
+        "capacity": 18
+      },
+      {
+        "session": "s13",
+        "room": "r1",
+        "day": 3,
+        "start": 565,
+        "end": 635,
+        "capacity": 22
+      },
+      {
+        "session": "s14",
+        "room": "r2",
+        "day": 3,
+        "start": 590,
+        "end": 660,
+        "capacity": 26
+      },
+      {
+        "session": "s15",
+        "room": "r0",
+        "day": 3,
+        "start": 615,
+        "end": 685,
+        "capacity": 18
+      },
+      {
+        "session": "s16",
+        "room": "r1",
+        "day": 3,
+        "start": 640,
+        "end": 710,
+        "capacity": 22
+      },
+      {
+        "session": "s17",
+        "room": "r2",
+        "day": 3,
+        "start": 665,
+        "end": 735,
+        "capacity": 26
+      }
+    ],
+    "bookings": [
+      {
+        "learner": "l000",
+        "session": "s06"
+      },
+      {
+        "learner": "l000",
+        "session": "s08"
+      },
+      {
+        "learner": "l000",
+        "session": "s02"
+      },
+      {
+        "learner": "l001",
+        "session": "s03"
+      },
+      {
+        "learner": "l001",
+        "session": "s05"
+      },
+      {
+        "learner": "l001",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s07"
+      },
+      {
+        "learner": "l002",
+        "session": "s08"
+      },
+      {
+        "learner": "l002",
+        "session": "s10"
+      },
+      {
+        "learner": "l003",
+        "session": "s17"
+      },
+      {
+        "learner": "l003",
+        "session": "s14"
+      },
+      {
+        "learner": "l003",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s09"
+      },
+      {
+        "learner": "l004",
+        "session": "s11"
+      },
+      {
+        "learner": "l004",
+        "session": "s15"
+      },
+      {
+        "learner": "l005",
+        "session": "s17"
+      },
+      {
+        "learner": "l005",
+        "session": "s03"
+      },
+      {
+        "learner": "l005",
+        "session": "s05"
+      },
+      {
+        "learner": "l006",
+        "session": "s08"
+      },
+      {
+        "learner": "l006",
+        "session": "s11"
+      },
+      {
+        "learner": "l006",
+        "session": "s09"
+      },
+      {
+        "learner": "l007",
+        "session": "s03"
+      },
+      {
+        "learner": "l007",
+        "session": "s04"
+      },
+      {
+        "learner": "l007",
+        "session": "s15"
+      },
+      {
+        "learner": "l008",
+        "session": "s03"
+      },
+      {
+        "learner": "l008",
+        "session": "s01"
+      },
+      {
+        "learner": "l008",
+        "session": "s08"
+      },
+      {
+        "learner": "l009",
+        "session": "s04"
+      },
+      {
+        "learner": "l009",
+        "session": "s11"
+      },
+      {
+        "learner": "l009",
+        "session": "s16"
+      },
+      {
+        "learner": "l010",
+        "session": "s15"
+      },
+      {
+        "learner": "l010",
+        "session": "s11"
+      },
+      {
+        "learner": "l010",
+        "session": "s04"
+      },
+      {
+        "learner": "l011",
+        "session": "s14"
+      },
+      {
+        "learner": "l011",
+        "session": "s08"
+      },
+      {
+        "learner": "l011",
+        "session": "s17"
+      },
+      {
+        "learner": "l012",
+        "session": "s07"
+      },
+      {
+        "learner": "l012",
+        "session": "s00"
+      },
+      {
+        "learner": "l012",
+        "session": "s10"
+      },
+      {
+        "learner": "l013",
+        "session": "s17"
+      },
+      {
+        "learner": "l013",
+        "session": "s02"
+      },
+      {
+        "learner": "l013",
+        "session": "s07"
+      },
+      {
+        "learner": "l014",
+        "session": "s17"
+      },
+      {
+        "learner": "l014",
+        "session": "s10"
+      },
+      {
+        "learner": "l014",
+        "session": "s04"
+      },
+      {
+        "learner": "l015",
+        "session": "s03"
+      },
+      {
+        "learner": "l015",
+        "session": "s05"
+      },
+      {
+        "learner": "l015",
+        "session": "s11"
+      },
+      {
+        "learner": "l016",
+        "session": "s03"
+      },
+      {
+        "learner": "l016",
+        "session": "s10"
+      },
+      {
+        "learner": "l016",
+        "session": "s16"
+      },
+      {
+        "learner": "l017",
+        "session": "s15"
+      },
+      {
+        "learner": "l017",
+        "session": "s09"
+      },
+      {
+        "learner": "l017",
+        "session": "s00"
+      },
+      {
+        "learner": "l018",
+        "session": "s13"
+      },
+      {
+        "learner": "l018",
+        "session": "s05"
+      },
+      {
+        "learner": "l018",
+        "session": "s00"
+      },
+      {
+        "learner": "l019",
+        "session": "s12"
+      },
+      {
+        "learner": "l019",
+        "session": "s03"
+      },
+      {
+        "learner": "l019",
+        "session": "s10"
+      },
+      {
+        "learner": "l020",
+        "session": "s01"
+      },
+      {
+        "learner": "l020",
+        "session": "s03"
+      },
+      {
+        "learner": "l020",
+        "session": "s06"
+      },
+      {
+        "learner": "l021",
+        "session": "s11"
+      },
+      {
+        "learner": "l021",
+        "session": "s04"
+      },
+      {
+        "learner": "l021",
+        "session": "s00"
+      },
+      {
+        "learner": "l022",
+        "session": "s04"
+      },
+      {
+        "learner": "l022",
+        "session": "s11"
+      },
+      {
+        "learner": "l022",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s11"
+      },
+      {
+        "learner": "l023",
+        "session": "s15"
+      },
+      {
+        "learner": "l023",
+        "session": "s03"
+      },
+      {
+        "learner": "l024",
+        "session": "s06"
+      },
+      {
+        "learner": "l024",
+        "session": "s01"
+      },
+      {
+        "learner": "l024",
+        "session": "s04"
+      },
+      {
+        "learner": "l025",
+        "session": "s17"
+      },
+      {
+        "learner": "l025",
+        "session": "s02"
+      },
+      {
+        "learner": "l025",
+        "session": "s12"
+      },
+      {
+        "learner": "l026",
+        "session": "s02"
+      },
+      {
+        "learner": "l026",
+        "session": "s13"
+      },
+      {
+        "learner": "l026",
+        "session": "s17"
+      },
+      {
+        "learner": "l027",
+        "session": "s10"
+      },
+      {
+        "learner": "l027",
+        "session": "s09"
+      },
+      {
+        "learner": "l027",
+        "session": "s04"
+      },
+      {
+        "learner": "l028",
+        "session": "s11"
+      },
+      {
+        "learner": "l028",
+        "session": "s05"
+      },
+      {
+        "learner": "l028",
+        "session": "s16"
+      },
+      {
+        "learner": "l029",
+        "session": "s15"
+      },
+      {
+        "learner": "l029",
+        "session": "s14"
+      },
+      {
+        "learner": "l029",
+        "session": "s07"
+      },
+      {
+        "learner": "l030",
+        "session": "s10"
+      },
+      {
+        "learner": "l030",
+        "session": "s13"
+      },
+      {
+        "learner": "l030",
+        "session": "s05"
+      },
+      {
+        "learner": "l031",
+        "session": "s12"
+      },
+      {
+        "learner": "l031",
+        "session": "s11"
+      },
+      {
+        "learner": "l031",
+        "session": "s00"
+      },
+      {
+        "learner": "l032",
+        "session": "s08"
+      },
+      {
+        "learner": "l032",
+        "session": "s13"
+      },
+      {
+        "learner": "l032",
+        "session": "s06"
+      },
+      {
+        "learner": "l033",
+        "session": "s02"
+      },
+      {
+        "learner": "l033",
+        "session": "s00"
+      },
+      {
+        "learner": "l033",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s10"
+      },
+      {
+        "learner": "l034",
+        "session": "s17"
+      },
+      {
+        "learner": "l034",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s05"
+      },
+      {
+        "learner": "l035",
+        "session": "s16"
+      },
+      {
+        "learner": "l035",
+        "session": "s06"
+      },
+      {
+        "learner": "l036",
+        "session": "s05"
+      },
+      {
+        "learner": "l036",
+        "session": "s00"
+      },
+      {
+        "learner": "l036",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s08"
+      },
+      {
+        "learner": "l037",
+        "session": "s17"
+      },
+      {
+        "learner": "l037",
+        "session": "s13"
+      },
+      {
+        "learner": "l038",
+        "session": "s09"
+      },
+      {
+        "learner": "l038",
+        "session": "s01"
+      },
+      {
+        "learner": "l038",
+        "session": "s02"
+      },
+      {
+        "learner": "l039",
+        "session": "s17"
+      },
+      {
+        "learner": "l039",
+        "session": "s01"
+      },
+      {
+        "learner": "l039",
+        "session": "s10"
+      },
+      {
+        "learner": "l040",
+        "session": "s16"
+      },
+      {
+        "learner": "l040",
+        "session": "s17"
+      },
+      {
+        "learner": "l040",
+        "session": "s13"
+      },
+      {
+        "learner": "l041",
+        "session": "s09"
+      },
+      {
+        "learner": "l041",
+        "session": "s02"
+      },
+      {
+        "learner": "l041",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s15"
+      },
+      {
+        "learner": "l042",
+        "session": "s07"
+      },
+      {
+        "learner": "l042",
+        "session": "s02"
+      },
+      {
+        "learner": "l043",
+        "session": "s08"
+      },
+      {
+        "learner": "l043",
+        "session": "s01"
+      },
+      {
+        "learner": "l043",
+        "session": "s00"
+      },
+      {
+        "learner": "l044",
+        "session": "s07"
+      },
+      {
+        "learner": "l044",
+        "session": "s12"
+      },
+      {
+        "learner": "l044",
+        "session": "s16"
+      },
+      {
+        "learner": "l045",
+        "session": "s08"
+      },
+      {
+        "learner": "l045",
+        "session": "s17"
+      },
+      {
+        "learner": "l045",
+        "session": "s15"
+      },
+      {
+        "learner": "l046",
+        "session": "s10"
+      },
+      {
+        "learner": "l046",
+        "session": "s01"
+      },
+      {
+        "learner": "l046",
+        "session": "s08"
+      },
+      {
+        "learner": "l047",
+        "session": "s16"
+      },
+      {
+        "learner": "l047",
+        "session": "s17"
+      },
+      {
+        "learner": "l047",
+        "session": "s15"
+      },
+      {
+        "learner": "l048",
+        "session": "s12"
+      },
+      {
+        "learner": "l048",
+        "session": "s02"
+      },
+      {
+        "learner": "l048",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s06"
+      },
+      {
+        "learner": "l049",
+        "session": "s09"
+      },
+      {
+        "learner": "l049",
+        "session": "s12"
+      },
+      {
+        "learner": "l050",
+        "session": "s06"
+      },
+      {
+        "learner": "l050",
+        "session": "s14"
+      },
+      {
+        "learner": "l050",
+        "session": "s13"
+      },
+      {
+        "learner": "l051",
+        "session": "s00"
+      },
+      {
+        "learner": "l051",
+        "session": "s17"
+      },
+      {
+        "learner": "l051",
+        "session": "s07"
+      },
+      {
+        "learner": "l052",
+        "session": "s14"
+      },
+      {
+        "learner": "l052",
+        "session": "s04"
+      },
+      {
+        "learner": "l052",
+        "session": "s00"
+      },
+      {
+        "learner": "l053",
+        "session": "s10"
+      },
+      {
+        "learner": "l053",
+        "session": "s03"
+      },
+      {
+        "learner": "l053",
+        "session": "s01"
+      },
+      {
+        "learner": "l054",
+        "session": "s06"
+      },
+      {
+        "learner": "l054",
+        "session": "s14"
+      },
+      {
+        "learner": "l054",
+        "session": "s01"
+      },
+      {
+        "learner": "l055",
+        "session": "s15"
+      },
+      {
+        "learner": "l055",
+        "session": "s06"
+      },
+      {
+        "learner": "l055",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s03"
+      },
+      {
+        "learner": "l056",
+        "session": "s05"
+      },
+      {
+        "learner": "l056",
+        "session": "s07"
+      },
+      {
+        "learner": "l057",
+        "session": "s16"
+      },
+      {
+        "learner": "l057",
+        "session": "s09"
+      },
+      {
+        "learner": "l057",
+        "session": "s10"
+      },
+      {
+        "learner": "l058",
+        "session": "s02"
+      },
+      {
+        "learner": "l058",
+        "session": "s07"
+      },
+      {
+        "learner": "l058",
+        "session": "s12"
+      },
+      {
+        "learner": "l059",
+        "session": "s01"
+      },
+      {
+        "learner": "l059",
+        "session": "s06"
+      },
+      {
+        "learner": "l059",
+        "session": "s14"
+      },
+      {
+        "learner": "l060",
+        "session": "s03"
+      },
+      {
+        "learner": "l060",
+        "session": "s13"
+      },
+      {
+        "learner": "l060",
+        "session": "s09"
+      },
+      {
+        "learner": "l061",
+        "session": "s04"
+      },
+      {
+        "learner": "l061",
+        "session": "s15"
+      },
+      {
+        "learner": "l061",
+        "session": "s02"
+      },
+      {
+        "learner": "l062",
+        "session": "s07"
+      },
+      {
+        "learner": "l062",
+        "session": "s11"
+      },
+      {
+        "learner": "l062",
+        "session": "s16"
+      },
+      {
+        "learner": "l063",
+        "session": "s02"
+      },
+      {
+        "learner": "l063",
+        "session": "s07"
+      },
+      {
+        "learner": "l063",
+        "session": "s09"
+      },
+      {
+        "learner": "l064",
+        "session": "s13"
+      },
+      {
+        "learner": "l064",
+        "session": "s08"
+      },
+      {
+        "learner": "l064",
+        "session": "s00"
+      },
+      {
+        "learner": "l065",
+        "session": "s09"
+      },
+      {
+        "learner": "l065",
+        "session": "s08"
+      },
+      {
+        "learner": "l065",
+        "session": "s16"
+      },
+      {
+        "learner": "l066",
+        "session": "s09"
+      },
+      {
+        "learner": "l066",
+        "session": "s06"
+      },
+      {
+        "learner": "l066",
+        "session": "s07"
+      },
+      {
+        "learner": "l067",
+        "session": "s04"
+      },
+      {
+        "learner": "l067",
+        "session": "s11"
+      },
+      {
+        "learner": "l067",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s07"
+      },
+      {
+        "learner": "l068",
+        "session": "s04"
+      },
+      {
+        "learner": "l068",
+        "session": "s03"
+      },
+      {
+        "learner": "l069",
+        "session": "s15"
+      },
+      {
+        "learner": "l069",
+        "session": "s14"
+      },
+      {
+        "learner": "l069",
+        "session": "s09"
+      },
+      {
+        "learner": "l070",
+        "session": "s06"
+      },
+      {
+        "learner": "l070",
+        "session": "s03"
+      },
+      {
+        "learner": "l070",
+        "session": "s04"
+      },
+      {
+        "learner": "l071",
+        "session": "s07"
+      },
+      {
+        "learner": "l071",
+        "session": "s10"
+      },
+      {
+        "learner": "l071",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s04"
+      },
+      {
+        "learner": "l072",
+        "session": "s15"
+      },
+      {
+        "learner": "l072",
+        "session": "s02"
+      },
+      {
+        "learner": "l073",
+        "session": "s06"
+      },
+      {
+        "learner": "l073",
+        "session": "s05"
+      },
+      {
+        "learner": "l073",
+        "session": "s00"
+      },
+      {
+        "learner": "l074",
+        "session": "s02"
+      },
+      {
+        "learner": "l074",
+        "session": "s15"
+      },
+      {
+        "learner": "l074",
+        "session": "s01"
+      },
+      {
+        "learner": "l075",
+        "session": "s17"
+      },
+      {
+        "learner": "l075",
+        "session": "s03"
+      },
+      {
+        "learner": "l075",
+        "session": "s15"
+      },
+      {
+        "learner": "l076",
+        "session": "s04"
+      },
+      {
+        "learner": "l076",
+        "session": "s16"
+      },
+      {
+        "learner": "l076",
+        "session": "s06"
+      },
+      {
+        "learner": "l077",
+        "session": "s00"
+      },
+      {
+        "learner": "l077",
+        "session": "s05"
+      },
+      {
+        "learner": "l077",
+        "session": "s08"
+      },
+      {
+        "learner": "l078",
+        "session": "s09"
+      },
+      {
+        "learner": "l078",
+        "session": "s13"
+      },
+      {
+        "learner": "l078",
+        "session": "s05"
+      },
+      {
+        "learner": "l079",
+        "session": "s04"
+      },
+      {
+        "learner": "l079",
+        "session": "s01"
+      },
+      {
+        "learner": "l079",
+        "session": "s08"
+      },
+      {
+        "learner": "l080",
+        "session": "s04"
+      },
+      {
+        "learner": "l080",
+        "session": "s15"
+      },
+      {
+        "learner": "l080",
+        "session": "s06"
+      },
+      {
+        "learner": "l081",
+        "session": "s11"
+      },
+      {
+        "learner": "l081",
+        "session": "s03"
+      },
+      {
+        "learner": "l081",
+        "session": "s09"
+      },
+      {
+        "learner": "l082",
+        "session": "s08"
+      },
+      {
+        "learner": "l082",
+        "session": "s01"
+      },
+      {
+        "learner": "l082",
+        "session": "s11"
+      },
+      {
+        "learner": "l083",
+        "session": "s13"
+      },
+      {
+        "learner": "l083",
+        "session": "s12"
+      },
+      {
+        "learner": "l083",
+        "session": "s00"
+      },
+      {
+        "learner": "l084",
+        "session": "s05"
+      },
+      {
+        "learner": "l084",
+        "session": "s08"
+      },
+      {
+        "learner": "l084",
+        "session": "s04"
+      },
+      {
+        "learner": "l085",
+        "session": "s00"
+      },
+      {
+        "learner": "l085",
+        "session": "s11"
+      },
+      {
+        "learner": "l085",
+        "session": "s07"
+      },
+      {
+        "learner": "l086",
+        "session": "s00"
+      },
+      {
+        "learner": "l086",
+        "session": "s14"
+      },
+      {
+        "learner": "l086",
+        "session": "s05"
+      },
+      {
+        "learner": "l087",
+        "session": "s06"
+      },
+      {
+        "learner": "l087",
+        "session": "s01"
+      },
+      {
+        "learner": "l087",
+        "session": "s02"
+      },
+      {
+        "learner": "l088",
+        "session": "s12"
+      },
+      {
+        "learner": "l088",
+        "session": "s07"
+      },
+      {
+        "learner": "l088",
+        "session": "s16"
+      },
+      {
+        "learner": "l089",
+        "session": "s11"
+      },
+      {
+        "learner": "l089",
+        "session": "s01"
+      },
+      {
+        "learner": "l089",
+        "session": "s03"
+      }
+    ],
+    "scans": []
+  }
+}
